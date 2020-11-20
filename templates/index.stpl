@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include!("./header.stpl"); %>
+    </head>
+    <body>
+        <div id="root">
+            <!-- Menu -->
+            <% include!("./nav.stpl"); %> <% include!("./footer.stpl"); %> <%
+            include!("./main.stpl"); %>
+        </div>
+
+        <!-- Footer area -->
+        <% include!("./footer.stpl"); %>
+        <script>
+            var xmlString = document.getElementById("content").textContent;
+            // var doc = new DOMParser().parseFromString(xmlString, "text/xml");
+            document.getElementById("content").innerHTML = xmlString;
+        </script>
+    </body>
+</html>
