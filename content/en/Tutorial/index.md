@@ -1,11 +1,10 @@
----
-title: "Tutorials"
----
-{{< faq "Some overviews in KOOMPI OS" >}}
+# Tutorials
+
+[Some overviews in KOOMPI OS"](/en/Release/index.en.md)
 This video will be covered all about the way to updating the system and how important it is. Besides, we also navigate you guy around in the OS. Discover store also has been introducing here plus plasma features.
 
-{{< youtube d8f4e7EE7YU >}}
-{{</ faq >}}
+
+
 
 {{< faq "Introducing about Konsole and Primary Command" >}}
 This video will provide you with all the information about Konsole which people also call it **Terminal**. Moreover, this video will give you details about `pi`/`pacman`, the **primary command** of all, and how to use **installing, editing, adding and removing** file by using `pi` command.

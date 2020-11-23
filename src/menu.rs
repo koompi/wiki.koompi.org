@@ -1,6 +1,4 @@
-use sailfish::runtime::Render;
 use serde::{Deserialize, Serialize};
-use serde_json;
 
 // A type to represent a path, split into its component parts
 #[derive(Debug)]

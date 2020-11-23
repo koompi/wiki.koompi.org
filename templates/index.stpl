@@ -6,16 +6,13 @@
     <body>
         <div id="root">
             <!-- Menu -->
-            <% include!("./nav.stpl"); %> <% include!("./footer.stpl"); %> <%
-            include!("./main.stpl"); %>
+            <% include!("./nav.stpl"); %> 
+            <% include!("./footer.stpl"); %> 
+            <% include!("./main.stpl"); %>
         </div>
 
         <!-- Footer area -->
+        <script src="/public/main.js"></script>
         <% include!("./footer.stpl"); %>
-        <script>
-            var xmlString = document.getElementById("content").textContent;
-            // var doc = new DOMParser().parseFromString(xmlString, "text/xml");
-            document.getElementById("content").innerHTML = xmlString;
-        </script>
     </body>
 </html>

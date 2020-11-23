@@ -1,6 +1,5 @@
 use pulldown_cmark::{html, Options, Parser};
-use std::{fs::create_dir_all, fs::File, io::prelude::*, io::Error, path::Path};
-use walkdir::WalkDir;
+use std::{fs::File, io::prelude::*, io::Error};
 
 pub fn rf(path: &str) -> Result<String, Error> {
     println!("{}", path);
@@ -39,7 +38,7 @@ pub fn md_to_html(input: &str) -> Result<String, Error> {
 
             let mut html_output = String::new();
             html::push_html(&mut html_output, parser);
-
+            println!("{:#?}", html_output);
             Ok(html_output)
         }
         Err(e) => Err(e),
