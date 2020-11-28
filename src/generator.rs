@@ -6,8 +6,6 @@ use std::{
 };
 
 pub fn rf(path: &str) -> Result<String, Error> {
-    // println!("{}", path);
-
     let f = File::open(path);
     let mut data: String = String::new();
 

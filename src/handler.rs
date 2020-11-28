@@ -1,10 +1,7 @@
 use crate::generator::{md_to_html, rf};
-use crate::menu::{build_tree, dir, Dir, Path};
 use actix_web::{error::InternalError, http::StatusCode, HttpRequest, HttpResponse};
 use sailfish::TemplateOnce;
-use std::io::{Error, ErrorKind};
-use std::path::PathBuf;
-use walkdir::WalkDir;
+use std::io::ErrorKind;
 
 #[derive(TemplateOnce)]
 #[template(path = "index.stpl")]
@@ -15,21 +12,6 @@ pub struct Greet<'a> {
 }
 
 pub async fn greet(req: HttpRequest) -> actix_web::Result<HttpResponse> {
-    // let all = WalkDir::new("content")
-    //     .follow_links(true)
-    //     .sort_by(|a, b| a.file_name().cmp(b.file_name()));
-
-    // let paths: Vec<Path> = all.into_iter().fold(Vec::new(), |mut v, e| {
-    //     let d = e.unwrap().path().display().to_string();
-    //     v.push(Path::new(&d));
-    //     v
-    // });
-
-    // let mut top = dir("root");
-    // for path in paths.iter() {
-    //     build_tree(&mut top, &path.parts, 0);
-    // }
-
     let req_path = if req.path().to_string() == "/" {
         String::from("/en/")
     } else {

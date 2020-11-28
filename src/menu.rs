@@ -13,11 +13,7 @@ impl Path {
     }
 }
 
-// A recursive type to represent a directory tree.
-// Simplification: If it has children, it is considered
-// a directory, else considered a file.
 #[derive(Debug, Clone, Deserialize, Serialize)]
-// #[template(path = "index.stpl")]
 pub struct Dir {
     pub name: String,
     pub children: Vec<Dir>,
@@ -71,22 +67,3 @@ pub fn build_tree(node: &mut Dir, parts: &Vec<String>, depth: usize) {
         build_tree(&mut dir, parts, depth + 1);
     }
 }
-
-// A function to print a Dir in format similar to unix `tree` command.
-// fn print_dir(dir: &Dir, depth: u32) {
-//     if depth == 0 {
-//         println!("{}", dir.name);
-//     } else {
-//         println!(
-//             "{:indent$}{} {}",
-//             "",
-//             "└──",
-//             dir.name,
-//             indent = ((depth as usize) - 1) * 4
-//         );
-//     }
-
-//     for child in dir.children.iter() {
-//         print_dir(child, depth + 1)
-//     }
-// }
