@@ -1,8 +1,13 @@
 use pulldown_cmark::{html, Options, Parser};
-use std::{fs::File, io::prelude::*, io::Error};
+use std::{
+    fs::File,
+    io::prelude::*,
+    io::{Error, ErrorKind},
+};
 
 pub fn rf(path: &str) -> Result<String, Error> {
-    println!("{}", path);
+    // println!("{}", path);
+
     let f = File::open(path);
     let mut data: String = String::new();
 
@@ -32,16 +37,17 @@ pub fn md_to_html(input: &str) -> Result<String, Error> {
 
     match mardown_input {
         Ok(data) => {
-            let mut options = Options::empty();
-            options.insert(Options::all());
+            let options = Options::all();
             let parser = Parser::new_ext(&data, options);
 
             let mut html_output = String::new();
             html::push_html(&mut html_output, parser);
-            println!("{:#?}", html_output);
             Ok(html_output)
         }
-        Err(e) => Err(e),
+        Err(e) => match e.kind() {
+            ErrorKind::NotFound => Err(Error::from(ErrorKind::NotFound)),
+            _ => Err(e),
+        },
     }
 }
 
