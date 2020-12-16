@@ -1,5 +1,5 @@
 **Table of Contents**
-
+<!--
 ## Introduction
 
 - [Computer Hardware](/en/Introduction/Computer_Hardware.md)
@@ -8,18 +8,18 @@
 - [Applications]()
 - [Internet]()
 - [Security]()  
-
+-->
 
 ## KOOMPI OS
 
-- [Login screen]()
 - [Desktop environment](/en/KOOMPI_OS/Desktop_environment.md)
 - [File management](/en/KOOMPI_OS/File_management.md)
-- [Application management]()
-- [Network management]()
+- [Application management](/en/KOOMPI_OS/Application_management.md)
 - [System maintenance](/en/KOOMPI_OS/System_maintenance.md)
 - [System security](/en/KOOMPI_OS/System_security.md)
 - [System settings](/en/KOOMPI_OS/System_setting.md)
+<!--- [Network management]()-->
+<!--- [Login screen]() -->
 
 ## Applications
 
@@ -34,6 +34,7 @@
 - [System](/en/Applications/System.md)
 - [Utilities](/en/Applications/Utilities.md)
 
+<!--
 ## Development
 
 - [Overview](/en/Development/Overview.md)
@@ -43,6 +44,7 @@
 - [Audio and recodining]()
 - [Software Development]()
 - [System settings]()
+-->
 
 ## Instruction Manual
 
@@ -50,6 +52,10 @@
 
 ## FAQs
 
-- [General]()
-- [Technical]()
+- [General](/en/FAQs/General.md)
+- [Technical](/en/FAQs/Technical.md)
 
+
+## About
+- [KOOMPI Wiki]()
+- [KOOMPI]()

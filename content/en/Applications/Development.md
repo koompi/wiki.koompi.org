@@ -5,7 +5,7 @@ Application development goes through a process of planning, creating, testing, a
 [Android Studio](https://developer.android.com/) is the official integrated development environment for Google's Android operating 
 system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS, Linux based and even KOOMPI OS.
 
-**Install**
+**How to install**
 ```
 pi -S android-studio
 ```
@@ -36,7 +36,7 @@ pi -S android-studio
 
 Atom boasts of simplicity, flexibility and effectiveness that appeal to many developers, expert and novice alike.It is also simple that even those with minimal coding experience can easily learn the system almost instantly.
 
-**Install**
+**How to install**
 ```
 pi -S atom
 ```
@@ -62,7 +62,7 @@ pi -S atom
 ### Codeblocks
 [CodeBlocks](http://www.codeblocks.org/) is an open-source, cross-platform (Windows, Linux, MacOS), and free C/C++ IDE . It supports many compilers, such as GNU GCC (MinGW and Cygwin) and MS Visual C++. It supports interactive debugging (via GNU GDB or MS CDB).
 
-**Install**
+**How to install**
 ```
 pi -S codeblocks
 ```
@@ -81,7 +81,7 @@ pi -S codeblocks
 ### Cordova
 [Cordova](https://cordova.apache.org/) is an open-source mobile development framework. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development, avoiding each mobile platforms' native development language.
 
-**Install**
+**How to install**
 ```
 pi -S cordova
 ```
@@ -108,7 +108,7 @@ pi -S cordova
 It is Google’s UI toolkit that enables you to create applications for mobile, web, and desktop from a single codebase. What’s more, you don’t have to restart the application when testing your project. It offers the Hot Reload functionality, which makes the whole process of development stress-free and optimized.
 
 
-**Install**
+**How to install**
 ```
 pix -i flutter 
 ```
@@ -128,7 +128,7 @@ pix -i flutter
 
 ### Github
 [Github](https://github.com/) is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 
-**Install**
+**How to install**
 ```
 pi -S git
 ```
@@ -154,7 +154,7 @@ pi -S git
 ### Konsole
 [Konsole](https://konsole.kde.org/)is the default terminal emulator of the KDE Desktop environment. It runs a command shell, an application that executes the commands you type in.
 
-**Install**
+**How to install**
 ```
 pi -S konsole
 ```
@@ -172,7 +172,7 @@ pi -S konsole
 
 In fact, it allows you to create apps that will work for multiple platforms with a single codebase to reach the maximum number of audience. 
 
-**Install**
+**How to install**
 ```
 pi -S phonegap
 ```
@@ -197,7 +197,7 @@ pi -S phonegap
 <!--![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of Yaktocat](https://github.com/koompi/wiki.koompi.org/blob/Sub-Wiki-koompi-org/Images/Fluter1000.png)-->
 
-**Install**
+**How to install**
 ```
 pi -S qt
 ```
@@ -221,7 +221,7 @@ language for statistical computing and graphics. It is available in two formats:
 regular desktop application while RStudio Server runs on a remote server and allows accessing RStudio
 using a web browser.
 
-**Install**
+**How to install**
 ```
 pi -S rstudio-desktop-bin
 ```
@@ -245,7 +245,7 @@ pi -S rstudio-desktop-bin
 ### Visual Studio Code
 [Visual Studio Code](https://code.visualstudio.com/) is a source-code editor developed by Microsoft which includes supporting for debugging, embeding Git control and GitHub, syntax highlighting, intelligent code completion, snippets,and code refactoring. It is highly customizable, allowing users to change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 
-**Install**
+**How to install**
 ```
 pi -S visual-studio-code-bin
 ```

@@ -2,6 +2,12 @@
 Education applications is a term used for any computer software which is made for an educational purpose. It encompasses different ranges from language learning software to classroom management software to reference software, etc. 
 
 The purpose of all this software is to make some part of education more effective and efficient. 
+### Khmer Typing
+
+**How to install**
+```
+pix -i khmer-typing 
+```
 
 ### Libre Offices
 LIBREOFFICE 
@@ -78,6 +84,23 @@ Databases in LibreOffice Base are composed of four objects:
 - Reports
 
 ***Note:*** *Together, these objects allow you to enter, store, analyze, and compile data however you want.*
+### Microsoft Teams
+Teams is a chat-based collaboration tool for global, remote, and dispersed teams to work together and share information via a common space. You can utilize cool features like document collaboration, one-on-one chat, team chat, and more. Microsoft Teams is also fully integrated with many other services including PowerPoint, Word, Excel, and Planner.
+
+**How to install**
+```
+pi -S teams
+```
+
+**Features**
+-    Teams and channels. ...
+-    Conversations within channels and teams. ...
+-    A chat function. ...
+-    Document storage in SharePoint. ...
+-    Online video calling and screen sharing. ...
+-    Online meetings. ...
+-    Audio conferencing. ...
+-    Full telephony.
 
 ### MASTER PDF 
 If you are looking for apps used to view Document files, Master PDF is the only proprietary software that supports all features for editing, creating, encryption, and signing PDF documents. However, there is a limitation when you use it with LibreOffice.
@@ -85,7 +108,7 @@ If you are looking for apps used to view Document files, Master PDF is the only 
 
 On this operating system, there are two Master PDF platforms you can install.
 
-**Install**
+**How to install**
 There are master pdf apps you can install:
 - Master PDF4 (free)
 - Master PDF5 (certain features need to be paid for)
@@ -97,10 +120,101 @@ pi -S masterpdfeditor-free
 pi -S masterpdfeditor
 ```
 
+**Features**
+- Edit PDF text, images and pages with full editing features.
+- Create new PDF or edit existing ones.
+- Add and/or edit bookmarks in PDF files.
+- Encrypt and/or protect PDF files using 128 bit encryption.
+- Convert XPS files into PDF.
+
 ### Okular
 [Okular](https://okular.kde.org/) is a multiplatform document viewer developed by the KDE community and based on Qt and 
 KDE Frameworks libraries. It is distributed as part of the KDE Applications bundle. 
 
 Its origins are from KPDF and it replaces KPDF, KGhostView, KFax, KFaxview and KDVI in KDE 4.
 
+**How to install**
+```
+pi -S okular
+```
+
 **Features**
+-  Supported Formats: PDF, PS, Tiff, CHM, DjVu, Images, DVI, XPS, ODT, Fiction Book, Comic Book, Plucker, EPub, Fax
+-  Sidebar with contents, thumbnails, reviews and bookmarks
+-  Annotations support
+
+
+### Simplenote
+[Simplenote]() is the best note-taking app for KOOMPI OS right now. It provides all the features that a modern and professional note-taking app must-have.
+
+**How to install**
+
+```
+ pi -S simplenote-electron-bin
+```
+
+**Features**
+
+- Cross platform
+- Searchable notes
+- Notes can be tagged for even quick search and organize them
+- Notes can be sorted by modification date or alphabetically
+- Notes can be synced across devices
+- Individual notes can be shared with others via URL
+- Notes can be collaborated with other people (even if they don’t have Simplenote account)
+- Version control so you keep history of all changes made in the past
+- Markdown support in desktop versions (needs to be enabled from the settings)
+- Light and dark theme in desktop version
+- Password protection on notes
+- Pin important notes
+- Free to use, even the backup and sync is free. No limit.
+- Can be used offline
+
+### ThinkThink App
+
+
+**How to install**
+```
+pix -i ThinkThink-SchoolEdition  
+```
+
+### WPS Office
+WPS Office (previously known as Kingsoft Office)is an office suite for Microsoft Windows, Linux, iOS, Open-source and Android. It is a proprietary alternative for Microsoft Office with a modern UI which supports cross-device file transfer and cloud backup. The suite contains Writer, Presentation and Spreadsheets. 
+
+**How to install**
+
+WPS can be instaled with two ways around. This is the one we are recommeded to install, using this command to download it:
+```
+pi -S wps-office
+```
+In case the above apps doesn't work, you can use this instead, To install it:
+```
+pi -S wps-office-stable
+```
+**Features**
+
+- Complete Office Suite.
+- 100% Compatible with Microsoft Office Suite.
+- Word-Class Text Editor.
+- Much More Than Text.
+- View Multiple Documents.
+- Save To PDF.
+- Collaboration Tools.
+- Password Protection.
+
+### Zoom
+Zoom is a video conferencing tool. Anyone who has a meeting room link or code can join the Zoom call with one click. Zoom is popular due to its convenient usage and call quality. You can also customize certain features based on your preference. 
+
+**How to install**
+```
+pi -S zoom
+```
+
+**Features**
+-    Meetings and Chat. HD video, audio, collaboration & chat.
+-    Rooms and Workspaces. Power up your conference rooms with video.
+-    Video Webinars. Full-featured, easy-to-use, engaging webinars.
+-    App Marketplace. Integrations and bots to use with Zoom.
+
+
+---
