@@ -58,4 +58,4 @@
 
 ## About
 - [KOOMPI Wiki]()
-- [KOOMPI]()
+- [KOOMPI](/en/About_Us/KOOMPI.md)

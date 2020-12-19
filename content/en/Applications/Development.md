@@ -1,4 +1,4 @@
-## Development
+# Development
 Application development goes through a process of planning, creating, testing, and deploying an information system, also known as the software development life cycle. Applications are also often developed to automate some type of internal business process or processes, build a product to address common business challenges or to drive innovation.
 
 ### Android Studio
@@ -194,8 +194,8 @@ pi -S phonegap
 ### QT
 [Qt’s](https://www.qt.io) cross-platform framework allows you to design, develop, and deploy mobile applications cost-effectively for different types of portable, handheld iOS, Android, and Windows devices. The free and open-source platform provides a comprehensive and conducive development environment for delivering excellent user experiences. The time-honored and stable solution was initially used for developing software for Windows and Mac.
 
-<!--![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](https://github.com/koompi/wiki.koompi.org/blob/Sub-Wiki-koompi-org/Images/Fluter1000.png)-->
+<!--- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)--->
+![Image](/public/Images/Fluter1000.png)
 
 **How to install**
 ```

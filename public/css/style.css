@@ -117,6 +117,10 @@ code {
     animation-duration: 300ms;
 }
 
+#content img {
+    width: 50vw;
+}
+
 @keyframes fade-in {
     0% {
         opacity: 0;
@@ -188,6 +192,7 @@ h4 {
     color: #68207a;
     font-weight: 900;
 }
+
 
 * {
     font-family: "Merriweather", serif;
