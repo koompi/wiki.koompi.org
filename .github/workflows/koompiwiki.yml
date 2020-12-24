@@ -2,6 +2,8 @@ name: wiki.koompi.org
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]    
 jobs:
   cd:
     runs-on: ubuntu-latest
