@@ -28,11 +28,13 @@
 - [Education](/en/Applications/Education.md)
 - [Graphic](/en/Applications/Graphic.md)
 - [Internet](/en/Applications/Internet.md)
+<!---
 - [Multimedia](/en/Applications/Multimedia.md)
 - [Office](/en/Applications/Office.md)
 - [Settings](/en/Applications/Settings.md)
 - [System](/en/Applications/System.md)
 - [Utilities](/en/Applications/Utilities.md)
+--->
 
 <!--
 ## Development
@@ -57,5 +59,4 @@
 
 
 ## About
-- [KOOMPI Wiki]()
 - [KOOMPI](/en/About_Us/KOOMPI.md)

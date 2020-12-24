@@ -1,6 +1,8 @@
 ## Desktop Environment 
 Desktop Environment (DE) is the bundle of components that provide common graphical user interfaces (GUI) elements such as icons, toolbars, wallpapers, and desktop widgets. It shapes what the system looks like and how it interacts. 
 
+
+
 KOOMPI Desktop Environment is based on KDE – a highly customizable desktop with moderate usage of system resources. It has its own set of integrated applications and utilities. There are three main desktop environments and each of them has two core theme colours, **Dark and Light.** 
 
 - **KOOMPI THEME:** The original theme of KOOMPI OS. It looks simple and clean. The taskbar is stationed at the top of the desktop.
