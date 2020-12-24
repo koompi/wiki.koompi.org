@@ -1,5 +1,7 @@
 # KOOMPI Wiki
 
+![wiki.koompi.org status](https://github.com/koompi/wiki.koompi.org/workflows/wiki.koompi.org/badge.svg?branch=main)
+
 This reposotory contains all documentations of KOOMPI Open Source.
 
 ## Developing
