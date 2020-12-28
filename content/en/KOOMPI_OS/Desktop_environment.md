@@ -16,13 +16,13 @@ You can set desktop environments through an application named KOOMPI Themes, loc
 Below, we will discuss various components of the KOOMPI Desktop Environment. 
 
 ### PLANK
-Along the bottom side of the desktop is the additional bar called the Plank or Dork, a feature mainly used for quick access to applications and a general overview of the desktop. Normally, it automatically hides and reappears whenever or as soon as the mouse cursor moves into its area.
+Along the bottom side of the desktop is the additional bar called the Plank or Dock, a feature mainly used for quick access to applications and a general overview of the desktop. Normally, it automatically hides and reappears whenever or as soon as the mouse cursor moves into its area.
 
 ### SEARCH BAR
 In the middle-top of the desktop is a search bar which is also called ***KRunner Dialog.*** It is the field that can be used as a quick search for installed applications. Sometimes it does not show, you open it by **Alt + Space.**    
 
 ### TASKBAR
-The Task Bar is normally located on the upper border of the Desktop. The bar hosts many features as listed below:
+The Taskbar is normally located on the upper border of the Desktop. The bar hosts many features as listed below:
 #### Start Menu
 The Start Menu is located on the left corner of Taskbar and it can be accessed by the KOOMPI logo button. It displays all installed applications in the system in an organized manner by categorizing them into groups.
 
