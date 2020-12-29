@@ -4,6 +4,8 @@ KOOMPI encourages users to use command-lines in **Konsole**, *a baserunning soft
 
 ***Note:*** *Before, You install any applications, you have to make sure your system is already up to date. If you haven't done it, you must do it.*
 
+***<p style="color:red;">Beware: All operations can only be run on Konsole (command lines).</p>***
+
 ##### Updating System
 In order to update your system, you have to run this command below in the konsole:
 ```
