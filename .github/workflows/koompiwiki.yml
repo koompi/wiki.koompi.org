@@ -1,0 +1,28 @@
+name: wiki.koompi.org
+on:
+  push:
+    branches: [ main ]   
+jobs:
+  cd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install ssh key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_KEY }}
+          name: id_rsa
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+      
+      - name: ENV
+        env:
+          BASH_SECRET: ${{ secrets.BASH_SECRET }}
+        run: echo "$BASH_SECRET" > bash-shell
+
+      - name: Add permission
+        run: chmod +x bash-shell
+
+      - name: Deploying
+        run: ./bash-shell

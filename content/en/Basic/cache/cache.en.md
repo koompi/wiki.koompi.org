@@ -1,12 +1,4 @@
----
-title: "Cache Info"
-date: 2018-12-29T11:02:05+06:00
-lastmod: 2020-01-05T10:42:26+06:00
-draft: false
-# search related keywords
-keywords: ["induct", "instate"]
----
-
+# Cache
 **Pi** stores its downloaded packages in `/var/cache/pacman/pkg/` and does not remove the old or uninstalled versions automatically. This has some advantages:
 
 1. It allows to `downgrade a package` without the need to retrieve the previous version through other means, such as the `Arch Linux Archive.`

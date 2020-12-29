@@ -20,4 +20,7 @@ You can unpin applications by the following methods:
 Simply right-click on the application, click on "Property", and an information box will pop up. Listed in the box is the size, location, date created, modified access, Checksums and usage permission. 
 
 ### How to install and remove an application 
+<<<<<<< HEAD
 Basically, there are two option in order to install and remove your applications from your system. 
+=======
+>>>>>>> 74d93a09ea6f1e3f43fe7321bf12dde1bb17c6ad
