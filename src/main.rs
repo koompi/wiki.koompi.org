@@ -43,7 +43,7 @@ async fn main() -> std::io::Result<()> {
             .route("/", web::get().to(greet))
             .default_service(web::resource("").route(web::get().to(p404)))
     })
-    .bind("0.0.0.0:8000")?
+    .bind("0.0.0.0:4445")?
     .run()
     .await
 }
