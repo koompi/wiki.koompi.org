@@ -11,7 +11,7 @@ You can pin any application by right-clicking on the particular app and choose f
 ### How to unpin applications 
 
 You can unpin applications by the following methods: 
-- For apps that are located on the desktop, simply click on the app's icon and click the delete button on the keyboard 
+- For apps that are located on the desktop, simply click on the app's icon and click the delete button on the keyboard. 
 - For apps on the top panel, right-click on the top panel and choose **"Edit Panel"**. Navigate your cursor onto the app icon and click **"Remove"**. 
 - For apps that are on the Plank/Dock, right click on the app's icon and click **"Unpin Launcher"**. 
 
@@ -46,3 +46,5 @@ yes | pi -R <application package>
 **Example**
 
 ![Image](/public/Images/InstallingKosole1000.png)
+
+[**Visit here for application packages' keyname**](/en/Applications/Office.md)
