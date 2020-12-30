@@ -17,11 +17,11 @@ You can unpin applications by the following methods:
 
 ### How to know more about an application
 
-Simply right-click on the application, click on "Property", and an information box will pop up. Listed in the box is the size, location, date created, modified access, Checksums and usage permission. 
+Simply right-click on the application, click on "Property", and an information box will pop up. Listed in the box are the size, location, date created, modified access, Checksums and usage permission. 
 
 ### How to install and remove an application 
 
-Basically, there are two option in order to install and remove your applications from your system. 
+Basically, there are two options in order to install and remove your applications from your system. 
 - The first option, you can use **Discover**, default installed store on your system.
 
 ![Image](/public/Images/Discover1000.png)
@@ -47,4 +47,7 @@ yes | pi -R <application package>
 
 ![Image](/public/Images/InstallingKosole1000.png)
 
+<<<<<<< HEAD
 [**Visit here for application packages' keyname**](/en/Applications/Office.md)
+=======
+>>>>>>> 2bc3a00c73dba4feac9d5f6632376d139de6fa11
