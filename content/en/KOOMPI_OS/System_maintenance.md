@@ -1,8 +1,8 @@
-## System Maintenance
+# System Maintenance
+
+![Image](/public/Images/SystemMantenance-v1.png)
 
 Regular system maintenance is necessary for the proper function of your system in the long run. Below are some actions you can take.
-
-
 
 #### Upgrading the System
 It is recommended for you to perform full system upgrades regularly via Upgrading packages to enjoy both the latest bug fixes and security updates, and to avoid having to deal with too many package upgrades that require manual intervention at once.
@@ -57,3 +57,9 @@ sudo pacman-key --refresh-keys
 ```
 sudo pacman -S archlinux-keyring
 ```
+
+# System Monitor
+
+KSyuGuard is a system and performance monitoring utility allowing one to monitor the CPU usage, memory usage, network transfer rate, operating system performance, the status and resource usage of running processes, file system performance, USB performance, disk space usage, disk read/write activity for individual logical disks or all physical disks installed in the computer. In this, you can end the process of the application by right-clicking on it (an app you want to close) and choose end process.
+
+![Image](/public/Images/System_Monitoring.png)

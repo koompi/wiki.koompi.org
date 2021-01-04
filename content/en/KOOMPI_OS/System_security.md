@@ -1,4 +1,6 @@
 ## System Security
+
+
 The system itself leverages traditional OS security control to protect user data and system resources, protects device integrity against malware, and provides application isolation – application is separated from the rest of the running processes. 
 
 The robustness and security of the operating system is a result of the following aspects: 

@@ -7,6 +7,8 @@ In every operating system, the System Settings is a centralized and convenient w
 - Hardware
 - System Administration
 
+![Image](/public/Images/System_setting1000.png)
+
 ***Note:*** *All the modules that make up the System Settings are in the following order to make it easier to locate the correct configuration modules.*
 
 ### Location and Starting System Settings

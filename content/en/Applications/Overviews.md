@@ -2,6 +2,8 @@
 KOOMPI encourages users to use command-lines in **Konsole**, *a baserunning software,* to install, update, and remove because we believe that learning software from the foundation adds more to users’ understanding of technology. On this operating system, pi (pacman) is one of our system’s primary commands. It is a powerful tool at the centre of the system that allows you to maintain, expand, and update the system. There is also another way to get applications onto your computer.
 **Discover**, an applications stores for updating, installing, and removing applications. 
 
+![Image](/public/Images/Application1000.png)
+
 ***Note:*** *Before, You install any applications, you have to make sure your system is already up to date. If you haven't done it, you must do it.*
 
 ***<p style="color:red;">Beware: All operations can only be run on Konsole (command lines).</p>***
