@@ -1,4 +1,4 @@
-# Technical FAQs
+# Technical question
 
 The sector which you can find the solutions related to errors during you are using your pc or applications on the KOOMPI OS only. 
 
