@@ -21,9 +21,8 @@ You can set desktop environments through an application named KOOMPI Themes, loc
 
 Below, we will discuss various components of the KOOMPI Desktop Environment. 
 
+### PLANK AND SEARCH BAR
 
-
-### PLANK & SEARCH BAR
 Along the bottom side of the desktop is the additional bar called the Plank or Dock, a feature mainly used for quick access to applications and a general overview of the desktop. Normally, it automatically hides and reappears whenever or as soon as the mouse cursor moves into its area.
 
 In the middle-top of the desktop is a search bar which is also called ***KRunner Dialog.*** It is the field that can be used as a quick search for installed applications. Sometimes it does not show, you open it by **Alt + Space.**    
