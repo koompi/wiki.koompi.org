@@ -8,3 +8,5 @@ This website is a one-stop platform that gathering the instruction installation,
 
 
 Join the ever-growing KOOMPI community through this [link](https://t.me/koompicom)!
+
+

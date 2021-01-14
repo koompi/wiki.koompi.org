@@ -136,6 +136,9 @@ pi -S rawtherapee
 -    Color management using the LittleCMS color management system.
 -    Supports DCP and ICC color profiles.
 
+---
+
+## Video Graphic Editors
 ### Kdenlive
 **Kdenlive** Kdenlive is a video editing software based on the MLT Framework, KDE, and Qt. It can be used to serve basic to intermediate video editing needs. It is an alternative to ***Adobe Premiere Pro***.
 

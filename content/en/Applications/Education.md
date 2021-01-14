@@ -10,7 +10,6 @@ pix -i khmer-typing
 ```
 
 ### Libre Offices
-LIBREOFFICE 
 LibreOffice is a freely available, fully-featured office productivity suite. Its native file format is Open Document Format (ODF), an open standard format that is being adopted by governments worldwide as a required file format for publishing and accepting documents. They have clean interfaces (Dark & Light) and are rich in features and tools to let you create and produce your work. 
 
 **Install for Dark theme**

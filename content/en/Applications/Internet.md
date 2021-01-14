@@ -4,6 +4,8 @@ A web browser, or simply "**browser**," is a software application for accessing 
 
 The most popular browsers have several features in common. They allow users to set bookmarks and browse in a private mode. They also can be customized with extensions, and some of them provide a sync service.
 
+![Image](/public/Images/browser1000.png)
+
 ### Brave
 
 [Brave web browser](#) is a fast, free and open-source software.It was invented for fighting malware and preventing from tracking while keeping your information safe and secured.
