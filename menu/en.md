@@ -59,4 +59,4 @@
 
 
 ## About
-- [KOOMPI](/en/About_Us/KOOMPI.md)
+- [KOOMPI](https://koompi.com)

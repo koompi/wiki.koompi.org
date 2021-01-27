@@ -15,8 +15,8 @@ Today, students in developing nations struggle to find adequate lesson plans, bo
 Only recently, modern-computer hardware and satellite networks have become advanced and flexible enough for the extreme remote learning conditions of remote Cambodian villages.   
 
 We design KOOMPI to be affordable, lightweight, reliable, and energy-efficient for low-power off-grid systems.
-
-## A Little History
+<a href="#a_little_history"></a>
+## [A Little History](#a_little_history)
 You probably used to wonder: Why would KOOMPI use its own operating system when there are already so many variants of Linux, Microsoft Windows or Apple macOS? Who are the people behind KOOMPI and how did the company materialize into what it is today? Did someone just wake up one day and think “I want to make a computer and I will”? 
 
 KOOMPI didn’t start as a computer brand. It was purely a recycling project. 

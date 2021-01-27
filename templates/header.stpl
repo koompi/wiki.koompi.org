@@ -1,9 +1,10 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="https://wiki.koompi.org/public/Images/favicon.svg" type="image/svg+xml" sizes="any"> 
 <link rel="stylesheet" href="/public/css/style.css" />
 <link
     rel="stylesheet"
     href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/styles/default.min.css"
 />
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.3.2/highlight.min.js"></script>
-<title><%= lang %></title>
+<title>KOOMPI Wiki (<%= lang %>)</title>
