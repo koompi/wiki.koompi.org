@@ -16,7 +16,11 @@ Only recently, modern-computer hardware and satellite networks have become advan
 
 We design KOOMPI to be affordable, lightweight, reliable, and energy-efficient for low-power off-grid systems.
 
-## A Little History
+<!-- ## [A Little History](#a_little_history) -->
+<span><a href="#a_little_history"><small>&#128279;</small></a></span>
+<h2 id="a_little_history" style="cursor: pointer;">A Little History</h2>
+
+
 You probably used to wonder: Why would KOOMPI use its own operating system when there are already so many variants of Linux, Microsoft Windows or Apple macOS? Who are the people behind KOOMPI and how did the company materialize into what it is today? Did someone just wake up one day and think “I want to make a computer and I will”? 
 
 KOOMPI didn’t start as a computer brand. It was purely a recycling project. 
