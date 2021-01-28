@@ -1,5 +1,5 @@
-**Table of Contents**
-<!--
+<!--**Table of Contents**
+
 ## Introduction
 
 - [Computer Hardware](/en/Introduction/Computer_Hardware.md)
@@ -9,8 +9,22 @@
 - [Internet]()
 - [Security]()  
 -->
+# Table of Contents
 
-## KOOMPI OS
+### KOOMPI WIKI
+- [KOOMPI WIKI](/en/index.md)
+
+### Basic Commands
+- [Overview](/en/Commands/introduction.md)
+- [Install/Remove commands](/en/Commands/install_remove_commands.md)
+- [Manual guide Commands](/en/Commands/manual_guide.md)
+- [System Commands](/en/Commands/system_command.md)
+
+<!--
+- [Navigation Commands](#)
+- [File/Directory management command](#)
+-->
+### KOOMPI OS
 
 - [Desktop environment](/en/KOOMPI_OS/Desktop_environment.md)
 - [File management](/en/KOOMPI_OS/File_management.md)
@@ -18,10 +32,11 @@
 - [System maintenance](/en/KOOMPI_OS/System_maintenance.md)
 - [System security](/en/KOOMPI_OS/System_security.md)
 - [System settings](/en/KOOMPI_OS/System_setting.md)
+- [System settings modules](/en/KOOMPI_OS/System_module.md)
 <!--- [Network management]()-->
 <!--- [Login screen]() -->
 
-## Applications
+### Applications
 
 - [Overview](/en/Applications/Overviews.md)
 - [Development](/en/Applications/Development.md)
@@ -48,15 +63,15 @@
 - [System settings]()
 -->
 
-## Instruction Manual
+### Instruction Manual
 
 - [KOOMPI OS PLAYBOOK](/en/Documentation/KOOMPI_OS_PLAYBOOK.md)
 
-## FAQs
+### FAQs
 
 - [General](/en/FAQs/General.md)
 - [Technical](/en/FAQs/Technical.md)
 
 
-## About
+### About
 - [KOOMPI](/en/About_Us/KOOMPI.md)
