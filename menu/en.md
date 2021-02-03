@@ -15,10 +15,10 @@
 - [KOOMPI WIKI](/en/index.md)
 
 ### Basic Commands
-- [Overview](/en/Commands/introduction.md)
-- [Install/Remove commands](/en/Commands/install_remove_commands.md)
-- [Manual guide Commands](/en/Commands/manual_guide.md)
-- [System Commands](/en/Commands/system_command.md)
+- [Introduction](/en/Commands/introduction.md)
+- [Install/Remove](/en/Commands/install_remove_commands.md)
+- [Manual guide](/en/Commands/manual_guide.md)
+- [System](/en/Commands/system_command.md)
 
 <!--
 - [Navigation Commands](#)
@@ -72,13 +72,15 @@
 - [General](/en/FAQs/General.md)
 - [Technical](/en/FAQs/Technical.md)
 
-
-## About
-- [KOOMPI](https://koompi.com)
-
-
-<!--
-
 ### About
 - [KOOMPI](/en/About_Us/KOOMPI.md)
+
+
+### Platforms
+- [KOOMPI](https://koompi.com/)
+- [Sala KOOMPI](https://sala.koompi.com)
+- [KOOMPI WIKI](https://wiki.koompi.org)
+<!--
+## About
+- [KOOMPI](https://koompi.com)
 -->
