@@ -1,3 +1,4 @@
+<!---
 pwd : print working directory
 cd : change directory
 cd : go to home
@@ -27,3 +28,4 @@ Listing Command (ls) allows you to see all the contents in the directory you are
  **ls -r**    `list in reverse order` 
  **ls -R**    `list recursively directory tree` 
 
+-->
