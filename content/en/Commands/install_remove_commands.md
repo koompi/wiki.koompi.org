@@ -43,6 +43,22 @@ For deleting a package that other packages need without deleting their dependenc
  pi -Rdd {package name} {package name1} {package name2} 
 ```
 
+#### Updating commands
+As I have mentioned above that the system always receives the latest packages, as long as you do the updating command.
+
+The **mandatory step** is to upgrade your operating system before downloading any new applications.
+```
+pi -Syu
+```
+**For Database updating:**
+```
+pi -Syy
+```
+**For pix command updating:**
+```
+pix u
+```
+
 #### Automatically command
 Here Special usage to automate the install procedure (Recommend):
 
@@ -53,3 +69,4 @@ Here is other way for using automatically command:
 ```
  pi -S --noconfirm {package name}
 ```
+

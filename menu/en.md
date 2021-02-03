@@ -16,8 +16,9 @@
 
 ### Basic Commands
 - [Introduction](/en/Commands/introduction.md)
-- [Install/Remove](/en/Commands/install_remove_commands.md)
-- [Manual guide](/en/Commands/manual_guide.md)
+- [Install/Remove/Update](/en/Commands/install_remove_commands.md)
+- [Navigation](/en/Commands/navigation_command.md)
+- [Manual guide](/en/Commands/manual_guide_command.md)
 - [System](/en/Commands/system_command.md)
 
 <!--
@@ -27,7 +28,7 @@
 ### KOOMPI OS
 
 - [Desktop environment](/en/KOOMPI_OS/Desktop_environment.md)
-- [File management](/en/KOOMPI_OS/File_management.md)
+- [Files management](/en/KOOMPI_OS/File_management.md)
 - [Application management](/en/KOOMPI_OS/Application_management.md)
 - [System maintenance](/en/KOOMPI_OS/System_maintenance.md)
 - [System security](/en/KOOMPI_OS/System_security.md)
