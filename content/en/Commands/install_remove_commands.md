@@ -49,6 +49,10 @@ As I have mentioned above that the system always receives the latest packages, a
 
 The **mandatory step** is to upgrade your operating system before downloading any new applications.
 ```
+pi -Syu {package name}
+```
+Since there were alot of problem after update single packages, we recommend you to update all the  packages.
+```
 pi -Syu
 ```
 **For Database updating:**
