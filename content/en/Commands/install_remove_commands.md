@@ -1,6 +1,6 @@
 On Open-source software most applications are installed through **Aur** that contain app package.So, Here are the details for installing and removing packages details.
 
-#### Install applications command
+#### Install applications commands
 
 you can follow the following commands to install a signal package including the dependencies:
 ```
@@ -11,7 +11,7 @@ For the list of packages installation:
  pi -S {package name1} {package name2} ...
 ```
 ***<p style="color:red;"> All operations require a password. Then if you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your operation.</p>***
-
+<!--
 ## Installing packages group
 Some packages belong to a group of packages that simultaneously call installation. As in here, for instance.
 ```
@@ -21,7 +21,8 @@ To see what inside the package group, you must run.
 ```
  pi -Sg {package group name}
 ```
-#### Remove Applications command 
+-->
+#### Remove applications commands 
 A package is always installed with other packages that it *depends on*, **called dependencies**. Quite often those dependencies are already, or partially installed on your system because other **packages also depend on it**.
 
 If you just want to remove the package, the following command will be enough
@@ -43,7 +44,7 @@ For deleting a package that other packages need without deleting their dependenc
  pi -Rdd {package name} {package name1} {package name2} 
 ```
 
-#### Updating commands
+#### Update applications commands
 As I have mentioned above that the system always receives the latest packages, as long as you do the updating command.
 
 The **mandatory step** is to upgrade your operating system before downloading any new applications.
