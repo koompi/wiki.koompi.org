@@ -18,13 +18,11 @@
 - [Introduction](/en/Commands/introduction.md)
 - [Install/Remove/Update](/en/Commands/install_remove_commands.md)
 - [Navigation](/en/Commands/navigation_command.md)
+- [Directory/File Management](/en/Commands/Directory_file_management.md)
 - [Manual guide](/en/Commands/manual_guide_command.md)
 - [System](/en/Commands/system_command.md)
 
-<!--
-- [Navigation Commands](#)
-- [File/Directory management command](#)
--->
+
 ### KOOMPI OS
 
 - [Desktop environment](/en/KOOMPI_OS/Desktop_environment.md)
