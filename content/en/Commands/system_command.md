@@ -154,3 +154,6 @@ Use the **clear** command to clean out the terminal if it is getting cluttered w
 ````
 clear
 ````
+
+---
+---

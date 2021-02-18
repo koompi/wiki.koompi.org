@@ -18,8 +18,9 @@
 - [Introduction](/en/Commands/introduction.md)
 - [Install/Remove/Update](/en/Commands/install_remove_commands.md)
 - [Navigation](/en/Commands/navigation_command.md)
-- [Directory/File Management](/en/Commands/Directory_file_management.md)
+- [Directory/File Management](/en/Commands/directory_file_management.md)
 - [Manual guide](/en/Commands/manual_guide_command.md)
+- [Power management](/en/Commands/power_management.md)
 - [System](/en/Commands/system_command.md)
 
 
@@ -42,8 +43,9 @@
 - [Education](/en/Applications/Education.md)
 - [Graphic](/en/Applications/Graphic.md)
 - [Internet](/en/Applications/Internet.md)
-<!---
 - [Multimedia](/en/Applications/Multimedia.md)
+<!---
+
 - [Office](/en/Applications/Office.md)
 - [Settings](/en/Applications/Settings.md)
 - [System](/en/Applications/System.md)

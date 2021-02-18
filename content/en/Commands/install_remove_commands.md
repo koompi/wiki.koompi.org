@@ -75,3 +75,5 @@ Here is other way for using automatically command:
  pi -S --noconfirm {package name}
 ```
 
+---
+---

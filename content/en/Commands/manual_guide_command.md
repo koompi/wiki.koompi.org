@@ -27,3 +27,6 @@ mkdir --help
 ```
 
 ![Image](/public/Images/mkdir_help.png)
+
+---
+---

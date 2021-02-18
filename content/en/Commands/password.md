@@ -59,3 +59,6 @@ As a KOOMPI OS or Linux system administrator (sysadmin), you can change the pass
 1. Then type, **passwd Administrator_name** to change a password for Admin user
 1. The system will prompt you to enter a password twice
 
+
+---
+---

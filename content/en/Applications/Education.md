@@ -3,6 +3,7 @@ Education applications is a term used for any computer software which is made fo
 
 The purpose of all this software is to make some part of education more effective and efficient. 
 ### Khmer Typing
+Khmer Typing is a software uses for practice typing.
 
 **How to install**
 ```

@@ -53,3 +53,6 @@ Sometimes it can happen that your system can’t find the updates or packages. I
 ```
  pi -Syyu
 ```
+
+---
+---
