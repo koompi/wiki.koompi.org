@@ -18,13 +18,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "Merriweather", serif;
+ font-family: 'Inter', sans-serif;
     color: var(--blue);
     font-size: 1em;
 }
 
 button {
-    font-family: "Merriweather", serif;
+ font-family: 'Inter', sans-serif;
 }
 
 ul {

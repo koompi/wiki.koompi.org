@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Open+Sans&display=swap');
 html {
     width: 100vw;
     height: 100vh;
@@ -195,7 +196,8 @@ h4 {
 
 
 * {
-    font-family: "Merriweather", serif;
+    /* font-family: "Merriweather", serif; */
+    font-family: 'Inter', sans-serif;
     box-sizing: border-box !important;
     font-size: 1.2rem;
     line-height: 2.3rem;

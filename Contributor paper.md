@@ -20,7 +20,7 @@ Before you create an issue, please make sure you have checked out relevant docum
 If you have checked and you do not see any reports or messages, you can create or issue a bug report in the issue section.
 
 ### Tracking Issues
-All the issues that have been discovered can be found in the issues tracker.
+All the issues that have been discovered can be found in the **issues tracker.**
 
 ### Requested Features
 New features are welcome. However, you have to make sure the feature fits the project. If it meets our scope, please provide as many details as possible.
@@ -31,7 +31,7 @@ We recommend every contributor to create their own branch. This will make it eas
 ### Pull Requesting
 Pull request here refers to the merging request.
 
-We prefer small pull requests (PR) with minimal code change because the smaller the pull requests (PRs), the easier our team can review the merge. 
+We prefer **small pull requests** (PR) with minimal code change because the smaller the pull requests (PRs), the easier our team can review the merge. 
 
 Reviewing will be started as soon as possible. However, this process may take some time. Your request may sometimes be rejected or small changes may be required. 
 
@@ -39,10 +39,10 @@ Reviewing will be started as soon as possible. However, this process may take so
 Sorting, categorizing, and moving articles around have become a major task for the team. Please make sure you create a new file with the exact feature name. 
 
 ### Complaining
-If you have any feedback or complaints about the existing feature, please leave a message  through our issue section.
+If you have any feedback or complaints about the existing feature, please leave a message  through our **issue section.**
 
 ### Maintainer
-Each project has maintainers whose role is to organize, maintain, and overlook each project. When there are issues, the maintainers will notify the relevant team through the Github project issue board. Therefore, if you have any issues and you want to contact the team, the maintainer would be the first guy you must contact. 
+Each project has **maintainers** whose role is to organize, maintain, and overlook each project. When there are issues, the maintainers will notify the relevant team through the **Github project issue board.** Therefore, if you have any issues and you want to contact the team, the maintainer would be the first guy you must contact. 
 
 On each project, there will be a list of maintainers.
 
