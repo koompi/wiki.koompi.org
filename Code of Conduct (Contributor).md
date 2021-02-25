@@ -20,7 +20,8 @@ Before you create an issue, please make sure you have checked out relevant docum
 If you have checked and you do not see any reports or messages, you can create or issue a bug report in the issue section.
 
 ### Tracking Issues
-All the issues that have been discovered can be found in the **issues tracker.**
+All the issues that have been discovered can be found in the **Github project issue board.**
+<!-- ![main page](img/cb.png) -->
 
 ### Requested Features
 New features are welcome. However, you have to make sure the feature fits the project. If it meets our scope, please provide as many details as possible.
@@ -39,7 +40,7 @@ Reviewing will be started as soon as possible. However, this process may take so
 Sorting, categorizing, and moving articles around have become a major task for the team. Please make sure you create a new file with the exact feature name. 
 
 ### Complaining
-If you have any feedback or complaints about the existing feature, please leave a message  through our **issue section.**
+If you have any feedback or complaints about the existing feature, please leave a message  through our **Github project issue board.**
 
 ### Maintainer
 Each project has **maintainers** whose role is to organize, maintain, and overlook each project. When there are issues, the maintainers will notify the relevant team through the **Github project issue board.** Therefore, if you have any issues and you want to contact the team, the maintainer would be the first guy you must contact. 
