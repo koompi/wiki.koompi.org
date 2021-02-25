@@ -22,11 +22,11 @@ To prevent everyone from stepping on each other’s toes, each maintainer must:
 1. Keep Master Branch stable. Either way, it's now protected, meaning that the contributors are not allowed to push code directly without a Pull Request.
 1. Check only smaller Pull Requests in the process of clarification on PR (Pull Request). If there happens to be a big Pull Request, the maintainer will reject it immediately. 
 
-By having a small Pull Request, it is easier for everyone relevant to this project to follow-up with each other’s task. 
+    By having a small Pull Request, it is easier for everyone relevant to this project to follow-up with each other’s task. 
 
-Everyone must write a description of what they have changed in the Pull Request. 
+    Everyone must write a description of what they have changed in the Pull Request. 
 
-1. Review the Pull Request by giving comments directly to the person who has  
+6. Review the Pull Request by giving comments directly to the person who has  
        requested it if anything needs to be changed. Once the Pull Request is approved by 
        the maintainer, KOOMPI will review it once again.
 
