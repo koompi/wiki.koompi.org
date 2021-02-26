@@ -81,6 +81,12 @@
 - [KOOMPI](https://koompi.com/)
 - [Sala KOOMPI](https://sala.koompi.com)
 - [KOOMPI WIKI](https://wiki.koompi.org)
+
+### New Release
+
+- [KOOMPI ISO](/en/New_Release/ISO.md)
+- [pix]()
+
 <!--
 ## About
 - [KOOMPI](https://koompi.com)

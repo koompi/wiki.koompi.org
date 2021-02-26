@@ -20,7 +20,6 @@ users in a chat channel.
  pi -S discord
 ```
 
-
 #### Kodi
 **Kodi** is one of the best free and open source media server software available in the market. It offers
 an intuitive graphical user interface with lots of customization options. 
@@ -113,7 +112,8 @@ pi -S telegram-desktop
 ```
 pi -S telegram-desktop-bin
 ```
-
+**Features**
+- 
 
 #### Wechat
 **WeChat** is more than a messaging and social media app – it is a lifestyle for over one billion users
