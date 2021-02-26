@@ -31,7 +31,7 @@ This is the easiest way to update. Just connect to a reliable internet connectio
 ```
 curl -Ssf https://raw.githubusercontent.com/koompi/os-upgrade/master/installer.sh | sh
 ```
-**Note:**After you input the command above, please enter your password to confirm.
+**Note:** After you input the command above, please enter your password to confirm.
 
 These lines appear after the update is complete.
 
