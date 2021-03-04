@@ -73,21 +73,23 @@
 - [General](/en/FAQs/General.md)
 - [Technical](/en/FAQs/Technical.md)
 
-### About
-- [KOOMPI](/en/About_Us/KOOMPI.md)
-
-
-### Platforms
-- [KOOMPI](https://koompi.com/)
-- [Sala KOOMPI](https://sala.koompi.com)
-- [KOOMPI WIKI](https://wiki.koompi.org)
 
 ### New Release
 
 - [KOOMPI ISO](/en/New_Release/ISO.md)
 - [pix]()
 
+### Languages
+- [KHMER](https://wiki.koompi.org/kh/index.md)
+
+### About
+- [KOOMPI](/en/About_Us/KOOMPI.md)
+- [Platforms](/en/platforms.md)
 <!--
+### Platforms
+- [KOOMPI](https://koompi.com/)
+- [Sala KOOMPI](https://sala.koompi.com)
+- [KOOMPI WIKI](https://wiki.koompi.org)
 ## About
 - [KOOMPI](https://koompi.com)
 -->
