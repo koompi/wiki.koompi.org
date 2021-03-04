@@ -1,3 +1,3 @@
 - [KOOMPI](https://koompi.com/)
 - [Sala KOOMPI](https://sala.koompi.com)
-- [KOOMPI Org](www.koompi.org)
+- [KOOMPI.org](https://www.koompi.org)
