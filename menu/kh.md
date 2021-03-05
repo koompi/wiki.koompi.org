@@ -73,15 +73,15 @@
 - [បែបបច្ចេកទេស](/kh/FAQs/Technical.md)
 
 
-### ព័ត៌មាន
+### ព័ត៌មានថ្មីៗ
 
 - [KOOMPI ISO](/en/New_Release/ISO.md)
 - [pix]()
 
-### Languages
-- [ENGLISH](https://wiki.koompi.org/en/index.md)
+###  ភាសា
+- [អង់គ្លេស](https://wiki.koompi.org/en/index.md)
 
-### About
+### អំពី
 - [KOOMPI](/kh/About_Us/KOOMPI.md)
 - [វេទិកា](/kh/platforms.md)
 <!--
