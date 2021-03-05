@@ -11,6 +11,8 @@
 -->
 
 # តារាងមាតិកា
+
+### KOOMPI WIKI
 - [KOOMPI WIKI](/kh/index.md)
 
 ### ពាក្យបញ្ជាមូលដ្ឋាន
