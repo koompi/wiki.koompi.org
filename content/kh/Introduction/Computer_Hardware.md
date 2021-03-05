@@ -1,12 +1,9 @@
 # Computer Hardware
 
+
 [](#CPU)
 
-## CPU
-
-
 ## RAM
-
 ## Storage Drive
 
 ### HDD (Hard Disk Drive)
