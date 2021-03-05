@@ -20,12 +20,12 @@ reboot
 
 To cut power to unneeded systems while RAM still has enough power to run, type the command below
 ```
-systemctl suspend
+systemctl hibernate
 ```
 #### Suspend computer
 Powers down the computer while retaining its state, which saves all contents access memory to HARD DISK. You can run the following line:
 ```
-systemctl hibernate
+systemctl suspend
 ```
 ----
 ----
