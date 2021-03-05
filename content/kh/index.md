@@ -5,6 +5,6 @@
 ![Image](/public/Images/interfacekoompiwiki.png)
 
 
-ចូលរួមជាមួយសហគមន៍ KOOMPI ដែលរីកចម្រើនឥតឈប់ឈរតាមរយៈនេះ [link](https://t.me/koompicom)!
+ចូលរួមជាមួយសហគមន៍ KOOMPI ដែលរីកចម្រើនឥតឈប់ឈរតាមរយៈនេះ [លីង](https://t.me/koompicom)!
 
 
