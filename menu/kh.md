@@ -17,7 +17,7 @@
 
 ### ពាក្យបញ្ជាមូលដ្ឋាន
 - [ការណែនាំ](kh/Commands/introduction.md)
-- [ការដំឡើង/លុប/ធ្វើបច្ចុប្បភាព](/kh/Commands/install_remove_commands.md)
+- [ការដំឡើង/លុប/ធ្វើបច្ចុប្បន្នភាព](/kh/Commands/install_remove_commands.md)
 - [ការ Navigate](/kh/Commands/navigation_command.md)
 - [ការគ្រប់គ្រង់ឯកសារ/ប្រអប់សារ](/kh/Commands/directory_file_management.md)
 - [Manual guide](/kh/Commands/manual_guide_command.md)
