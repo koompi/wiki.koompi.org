@@ -1,6 +1,6 @@
 This section will provide the information related password information.
 
-### Set User Password
+#### Set User Password
 Type the following command to change your own password
 ```
 passwd
@@ -24,7 +24,7 @@ The **user** is first prompted for his/her old password if one is present. This 
 1. Digits **0** to **9**
 1. **Punctuation marks/special characters**
 
-### Changing Password 
+#### Changing Password 
 
 You need to **login as the root user**. To go into the **root**, type the following command to change the password for User_Name:
 
@@ -42,7 +42,7 @@ passwd: password updated successfully
 
 Where, **koompi** – is username or account's name.
 
-### Changing Group Password
+#### Changing Group Password
 
 When the **-g** option is used, the password for the named group is changed. In this example, change the password for the group:
 ```
@@ -51,7 +51,7 @@ When the **-g** option is used, the password for the named group is changed. In 
 
 The current group password is not prompted for. The **-r** option is used with the **-g** option to remove the current password from the named group. This allows group access to all members. The **-R** option is used with the **-g** option to restrict the named group for all users.
 
-### Changing User Passwords
+#### Changing User Passwords
 
 As a KOOMPI OS or Linux system administrator (sysadmin), you can change the password for any users on your server. To change a password on behalf of a user:
 

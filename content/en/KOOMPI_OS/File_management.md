@@ -11,4 +11,3 @@ Here are some features:
 
 - Renaming of a variable number of selected items in one step and much more.
 
-[For more info about it.](www.linux-databook.info/downloads/Dolphin_guide.pdf) 

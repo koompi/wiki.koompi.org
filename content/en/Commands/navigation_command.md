@@ -1,4 +1,4 @@
-### Navigation Commands
+# Navigation Commands
 #### Show current directory
 **pwd** is a command uses for find out a path of current directory (folder) you are in. The command will return an absolute full path, which is basically a path of directories that starts with a forward slash **(/)**.
 

@@ -21,7 +21,7 @@ You can set desktop environments through an application named KOOMPI Themes, loc
 
 Below, we will discuss various components of the KOOMPI Desktop Environment. 
 
-### PLANK AND SEARCH BAR
+#### PLANK AND SEARCH BAR
 
 Along the bottom side of the desktop is the additional bar called the Plank or Dock, a feature mainly used for quick access to applications and a general overview of the desktop. Normally, it automatically hides and reappears whenever or as soon as the mouse cursor moves into its area.
 
@@ -29,26 +29,26 @@ In the middle-top of the desktop is a search bar which is also called ***KRunner
 
 ![Image](/public/Images/Planksearchbar.png)
 
-### TASKBAR
+#### TASKBAR
 The Taskbar is normally located on the upper border of the Desktop. The bar hosts many features as listed below:
-#### Start Menu
+##### Start Menu
 The Start Menu is located on the left corner of Taskbar and it can be accessed by the KOOMPI logo button. It displays all installed applications in the system in an organized manner by categorizing them into groups.
 
-#### Timetable
+##### Timetable
 It is located near the right corner and it shows the time of the current location you have set. Clicking on it will enable you to see a drop-down of a calendar.
 
-#### System Properties
+##### System Properties
 This section includes the hardware drivers such as Bluetooth, Audio Speaker, Micro Speaker, Battery, Night control, Connectivity, and many more as you can see at the right corner right next to Current Timetable.
 
 ***Info:*** *For more information about those properties, ***right-click*** on each driver.*
 
-#### Power Management
+##### Power Management
 By clicking on the **Power Off Button** on the far-right corner of the Task Bar, future system actions such as Log Out, Restart, Shut Down, Hibernate, and Sleep will appear under the User’s Name Session.
 
-#### Widgets
+##### Widgets
 Widgets are small gadgets or mechanical features that you add to your home screen like a clock, dashboard, application launcher, and many more interesting and useful features. You can add which widgets you want for your home screen by **right-clicking** on your Taskbar and then click **Add Widgets**. It shows many features of the widget for you to choose.
 
 ***Note:*** *The Taskbar can be moved to every corner of the desktop. Check the Taskbar Configuration for more details.*
 
-#### Others
+##### Others
 “Others” refers to the current running services or applications. As a general rule, running applications appear next to the Start Menu, and the service running the app appears next to the System Properties.

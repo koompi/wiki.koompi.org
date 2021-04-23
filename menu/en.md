@@ -9,7 +9,7 @@
 - [Internet]()
 - [Security]()  
 -->
-# Table of Contents
+<!-- ### Table of Contents -->
 
 ### KOOMPI WIKI
 - [KOOMPI WIKI](/en/index.md)
@@ -39,21 +39,16 @@
 ### Applications
 
 - [Overview](/en/Applications/Overviews.md)
-- [Development](/en/Applications/Development.md)
-- [Education](/en/Applications/Education.md)
-- [Graphic](/en/Applications/Graphic.md)
 - [Internet](/en/Applications/Internet.md)
-- [Multimedia](/en/Applications/Multimedia.md)
-<!---
+- [Multimedia]()
+- [Utilities]()
+- [Documents]()
+- [Security]()
+- [Science]()
+- [Others]()
+- [Extents]()
 
-- [Office](/en/Applications/Office.md)
-- [Settings](/en/Applications/Settings.md)
-- [System](/en/Applications/System.md)
-- [Utilities](/en/Applications/Utilities.md)
---->
-
-<!--
-## Development
+<!-- ## Development
 
 - [Overview](/en/Development/Overview.md)
 - [Internet & Browser]()
@@ -61,8 +56,8 @@
 - [Graphic and videos]()
 - [Audio and recodining]()
 - [Software Development]()
-- [System settings]()
--->
+- [System settings]() -->
+
 
 ### Instruction Manual
 
@@ -77,14 +72,10 @@
 ### New Release
 
 - [KOOMPI ISO](/en/New_Release/ISO.md)
-- [pix]()
-
-### Languages
-- [KHMER](https://wiki.koompi.org/kh/index.md)
 
 ### About
 - [KOOMPI](/en/About_Us/KOOMPI.md)
-- [Platforms](/en/platforms.md)
+<!-- - [Platforms](/en/platforms.md) -->
 <!--
 ### Platforms
 - [KOOMPI](https://koompi.com/)
@@ -92,4 +83,7 @@
 - [KOOMPI WIKI](https://wiki.koompi.org)
 ## About
 - [KOOMPI](https://koompi.com)
+
+### Languages
+- [KHMER](https://wiki.koompi.org/kh/index.md)
 -->

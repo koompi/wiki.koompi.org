@@ -1,5 +1,5 @@
 
-### Power management
+## Power management
 Power Management is a feature that turns off the power or switches system's components to a low-power state when inactive, which is located at the corner of the screen.
 
 You can also run those services through Konsole also. So, This is the guide for those commands.

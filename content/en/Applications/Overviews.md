@@ -40,12 +40,12 @@ yes | Command to install or remove
 ```
 Down here are the examples for you:
 
-**Install Application Example:**
+**Install application example:**
    ```
    yes | pi -S brave
    ```
 
-**Remove Application Example:**
+**Remove application example:**
   ```
   yes | pi -Rn brave
   ```

@@ -1,9 +1,9 @@
-### Overview
+#### Overview
 
 ![Image](/public/Images/KOOMPI_V_26.png)
 
 KOOMPI Operating System (OS) 2.6 is the latest update in the 2.0 version that can be installed online through a script by our OS team.
-### What’s new?
+#### What’s new?
 - New features and icons on each theme 
 - Automatic Wi-Fi connection and auto-lock prevention
 - New smart installation to prevent stale from db.lock
@@ -15,7 +15,7 @@ KOOMPI Operating System (OS) 2.6 is the latest update in the 2.0 version that ca
 - Updated user template 
 - Updated to version 10 of pi command
 
-### Instructions
+#### Instructions
 
 There are two methods to get the update:
 
@@ -23,7 +23,7 @@ There are two methods to get the update:
 
 You can download the ISO from the link below, flash it to your USB (8BG minimum), boot into the live USB and run the system installation.
 
-***Download:*** **https://dev.koompi.org/iso/koompi_os-2021.02.25-x86_64.iso**  
+**Download:** **[https://dev.koompi.org/iso/koompi_os-2021.02.25-x86_64.iso](https://dev.koompi.org/iso/koompi_os-2021.02.25-x86_64.iso)**  
 
 **2. Online Update (Easy & Quick)**
 

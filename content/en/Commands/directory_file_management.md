@@ -1,4 +1,4 @@
-### Directory/File Management
+## Directory/File Management
 #### Create a new file
 **touch** command allows you to create a blank file.
 ```

@@ -1,4 +1,4 @@
-### Manual Guide commmands
+## Manual Guide commmands
 #### Full Instruction (commands)
 If you are confused about the function of certain Linux and open source commands? You don't have to anymore, you can easily learn how to use them right from Linux’s shell by using the **man** command. For instance, entering **man** will show the **manual instruction** of the command.
 ```

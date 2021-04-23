@@ -1,4 +1,4 @@
-# System Maintenance
+## System Maintenance
 
 Regular system maintenance is necessary for the proper function of your system in the long run. Below are some actions you can take.
 
