@@ -1,12 +1,10 @@
-# Welcome to KOOMPI WIKI 
+# សូមស្វាគមន៍មកកាន់ KOOMPI WIKI
 
-This website is a one-stop platform that gathering the instruction installation, updating, FAQs, and problem-solving. You can learn more about the Linux commands and information. Besides, you can keep up with the latest releases for new features and environment as our teams are always trying their best to deliver the optimal user experience. 
-
-
+គេហទំព័រនេះគឺជាវេទិកាមួយដែលប្រមូលផ្តុំការដំឡើង ការបង្រៀន ការធ្វើបច្ចុប្បន្នភាព ព្រមទាំងសំនួរចម្លើយនិងដំណៅះស្រាយបញ្ហាផ្សេងៗដែលអ្នកបានជួបប្រទះ។ អ្នកអាចស្វែងយល់បន្ថែមអំពីលីនុច ពាក្យបញ្ជានិងព័ត៌មានដទៃទៀត។ ក្រៅពីនេះអ្នកអាចទទួលបានពីការចេញផ្សាយចុងក្រោយបំផុតសម្រាប់មុខងារថ្មីៗ និងបរិស្ថាន ដូចដែលក្រុមការងាររបស់យើងតែងតែព្យាយាមអស់ពីសមត្ថភាព ដើម្បីផ្តល់ជូនបទពិសោធន៍ដល់អ្នកប្រើប្រាស់ល្អបំផុត។
 
 ![Image](/public/Images/interfacekoompiwiki.png)
 
 
-Join the ever-growing KOOMPI community through this [link](https://t.me/koompicom)!
+ចូលរួមជាមួយសហគមន៍ KOOMPI ដែលរីកចម្រើនឥតឈប់ឈរតាមរយៈនេះ [លីង](https://t.me/koompicom)!
 
 

@@ -1,31 +1,34 @@
 
-### Power management
-Power Management is a feature that turns off the power or switches system's components to a low-power state when inactive, which is located at the corner of the screen.
+### ការគ្រប់គ្រងថាមពល
+ការគ្រប់គ្រងថាមពល គឺជាលក្ខណៈពិសេសមួយដែលបិទថាមពល ឬប្តូរគ្រឿងបន្លាស់របស់ប្រព័ន្ធ ដែលជាទូទៅយើងឃើញវាមានទីតាំងនៅជ្រុងនៃអេក្រង់។
 
-You can also run those services through Konsole also. So, This is the guide for those commands.
+អ្នកក៏អាចដំណើរការសេវាកម្មទាំងនោះតាមរយៈ**កុងសូល**។ ហើយនេះគឺជាការណែនាំសម្រាប់ពាក្យបញ្ជាទាំងនោះ៖
 
-#### Poweroff computer
+#### ការបិទកុំព្យូទ័រ
 
-If you want to shut down your system you can follow the command below:
+
+ប្រសិនបើអ្នកចង់បិទប្រព័ន្ធរបស់អ្នកអ្នកអាចធ្វើតាមពាក្យបញ្ជាខាងក្រោម៖
 ```
 poweroff    
 ```
-#### Reboot computer
-Reboot is referring to restart your system. After you run it, it immediately resets your system.
+#### ចាប់ផ្ដើមកុំព្យូទ័រឡើងវិញ
+
+ការចាប់ផ្តើមឡើងវិញគឺសំដៅទៅលើការចាប់ផ្តើមប្រព័ន្ធរបស់អ្នកឡើងវិញ។ បន្ទាប់ពីអ្នកដំណើរការពាក្យបញ្ជានេះភ្លាម ប្រព័ន្ធរបស់អ្នកនឹងចាប់ឡើងវិញ។
 ```
 reboot  
 ```
-#### Hibernate computer
-**systemd** provides commands to *suspend* to RAM or *hibernate* using the kernel's native suspend/resume functionality. There are also mechanisms to add hooks to customize *pre-* and *post-suspend* actions.
+#### Hibernateកុំព្យូទ័រ
+**systemd** ផ្តល់នូវពាក្យបញ្ជាទៅ *ផ្អាក* ទៅលើ RAM ឫ *hibernate* ដោយប្រើមុខងារ suspend/resume . ក្រៅពីនេះ វាក៏មានយន្តការដើម្បីបន្ថែមទំពក់ ក្នុងការប្ដូរតាមបំណងដែលមានូចជា *pre-* and *post-suspend*។
 
-To cut power to unneeded systems while RAM still has enough power to run, type the command below
+
+ដើម្បីកាត់ថាមពលទៅប្រព័ន្ធដែលមិនចាំបាច់ខណៈពេលដែល RAM នៅតែមានថាមពលគ្រប់គ្រាន់ ដើម្បីដំណើរការសូមវាយពាក្យបញ្ជាខាងក្រោម៖
 ```
-systemctl suspend
+systemctl hibernate
 ```
 #### Suspend computer
 Powers down the computer while retaining its state, which saves all contents access memory to HARD DISK. You can run the following line:
 ```
-systemctl hibernate
+systemctl suspend
 ```
 ----
 ----

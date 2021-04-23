@@ -1,68 +1,71 @@
-# KOOMPI
+# ព័ត៌មានអំពី KOOMPI
 
-[KOOMPI](https://koompi.com/) is a technology development company based in Cambodia that designs and builds solutions-oriented productivity tools for next-generation doers and innovators.
+[KOOMPI](https://koompi.com/) គឺជាក្រុមហ៊ុនអភិវឌ្ឍន៍បច្ចេកវិទ្យាមួយក្នុងប្រទេសកម្ពុជា ដែលរចនានិងបង្កើតឧបករណ៍បច្ចេកវិទ្យាផ្សេងៗ សម្រាប់យុវជនជំនាន់ថ្មី។
+ផលិតផល KOOMPI ត្រូវបានរចនា ប្រមូលផ្តុំ និងរៀបចំបំពាក់ជាមួយនឹងប្រព័ន្ធដំណើរការច្នៃប្រឌិតក្នុងប្រទេសកម្ពុជា ខណៈគ្រឿងបន្លាស់សំខាន់ៗមួយចំនួនត្រូវបានផ្គត់ផ្គង់ពីប្រទេសចិនដោយសារតែបច្ចុប្បន្ននេះពួកយើងមិនទាន់មានរោងចក្រផលិតក្នុងស្រុក។
 
-KOOMPI products are designed, assembled, and programmed with customized software developed in Cambodia, while certain key hardware components are outsourced from China due to our present lack of local production facilities.
+KOOMPI មិនត្រឹមតែជាក្រុមហ៊ុនកុំព្យូទ័រទេ។ ផ្ទុយទៅវិញវាជាគម្រោងធំមួយដែលផ្តោតលើការអភិវឌ្ឍបច្ចេកវិទ្យានិងធនធានមនុស្ស។ ទោះបីផលិតផល កំុព្យូទ័ររបស់យើងជាសមិទ្ធិផលដ៏សំខាន់មួយ របស់យើងក៏ដោយក៏យើងនៅតែខិតខំដើម្បីសម្រេចឲ្យបានច្រើនជាងនេះ។ មុនពេលដែលយើងចូលទៅដល់៉ ”ផ្នែកសំខាន់” នៃសៀវភៅ ចូលក្រឡេកមកមើលថា KOOMPIដើរមក ដល់ចំណុចមួយសព្វថ្ងៃនេះដោយរបៀបណា ហើយកំពុងផ្តោតសំខាន់លើអ្វីខ្លះ។ 
 
-We do not define KOOMPI as a computer company. Instead, it’s a people-oriented technology and development project that keeps evolving. Though our notebook products are one of our proudest achievements, there is so much more we strive to accomplish. Before we get into the “useful” part of the book, let us take a look at how KOOMPI came to be what it is today and what we are working on.
+នៅក្នុងភាសាខ្មែរ ពាក្យថា KOOMPI មានន័យថាសៀវភៅ ឬប្រភពចំណេះដឹង។ KOOMPI ជានិមិត្តរូបនៃចំណេះដឹងនិងការផ្តល់អំណាចដល់ខ្លួនឯង។
 
-Chosen as a symbol of knowledge and self-empowerment, the word KOOMPI derives from the Khmer phrase, "books or source of knowledge."
+នៅសម័យបុរាណក្មេងប្រុសនឹងចាកចេញពីផ្ទះ ដើម្បីទៅរៀននិងអភិវឌ្ឍខ្លួនទៅជាមនុស្សពេញវ័យ នៅឯទីវត្តអារាមនៃព្រះពុទ្ធសាសនា។ សៀវភៅទាំងអស់ដែលត្រូវបានផ្តល់ឲ្យទាំងនេះត្រូវបានគេហៅថា គម្ពីរ។
 
-In ancient times, young Cambodian boys would leave home to learn and develop into adulthood at a Buddhist monk monastery. All the books and learning- materials given to these students were simply called KOOMPI. 
+សព្វថ្ងៃនេះសិស្សានុសិស្សនៅក្នុងប្រទេសកំពុងអភិវឌ្ឍន៍ជួបប្រទះឧបសគ្គច្រើនក្នុងការស្វែងរកផែនការមេរៀន សៀវភៅ និងធនធានសិក្សាជាពិសេសកុំព្យូទ័រផ្ទាល់ខ្លួនសម្រាប់ការស័្វយសិក្សាពីចម្ងាយ។
+ទើបតែថ្មីៗនេះប៉ុណ្ណោះដែលកុំព្យូទ័រ និងបណ្តាញផ្កាយរណបមានលក្ខណៈជឿនលឿន និងអាចបត់បែនបានគ្រប់គ្រាន់សម្រាប់ស្ថានភាពការសិក្សាពីចម្ងាយនៅតំបន់ដាច់ស្រយាល។
 
-Today, students in developing nations struggle to find adequate lesson plans, books, resources, and of growing importance, an internet-enabled notebook for self-directed remote learning.   
+ហេតុនេះហើយបានជាពួកយើងរចនា KOOMPI ឡើងក្នុងតម្លៃសមរម្យ មានទម្ងាន់ស្រាល និងសន្សំសំចៃថាមពលអគ្គិសនី។
 
-Only recently, modern-computer hardware and satellite networks have become advanced and flexible enough for the extreme remote learning conditions of remote Cambodian villages.   
-
-We design KOOMPI to be affordable, lightweight, reliable, and energy-efficient for low-power off-grid systems.
 
 <!-- ## [A Little History](#a_little_history) 
 <span><a href="#a_little_history"><small>&#128279;</small></a></span>
 <h2 id="a_little_history" style="cursor: pointer;">A Little History</h2>
 
 -->
-## A Little History
-You probably used to wonder: Why would KOOMPI use its own operating system when there are already so many variants of Linux, Microsoft Windows or Apple macOS? Who are the people behind KOOMPI and how did the company materialize into what it is today? Did someone just wake up one day and think “I want to make a computer and I will”? 
+## ប្រវត្តិនៃ KOOMPI
 
-KOOMPI didn’t start as a computer brand. It was purely a recycling project. 
+អ្នកប្រហែលជាធ្លាប់ឆ្ងល់ហើយថាហេតុអ្វីបានជា KOOMPI ប្រើប្រព័ន្ធប្រតិបត្តិការខ្លួន ឯងពេលដែលមានប្រព័ន្ធប្រតិបតិ្តការ Linux, Microsoft Window, macOS រួចទៅហើយនោះ? តើនរណាជាអ្នកដែលផ្តួចផ្តើមគំនិតបង្កើត KOOMPI ហើយ តើ KOOMPI មានដំណើររឿងយ៉ាងដូចម្តេខខ្លះ?? 
 
-It all began at SmallWorld's first old office, KOOMPI’s parent company that deserves a book of itself to tell its story. 
+KOOMPI មិនបានចាប់ផ្តើមដំបូងជាក្រុមហ៊ុនកំុព្យូរទ័រតែម្តងនោះទេគឺពួកយើងចាប់ផ្តើមជាមួយគម្រោងកែច្នៃសម្ភារៈឡើងវិញ។  
 
-Around the end of 2012, we partnered with recycles.org to gather old computers. Through email groups such as Yahoo Groups and Google Groups, we connected with many organizations and individuals who upgraded their computers and left the older ones unused. We made sure the hardware was still usable and refurbished them. We wiped out the old system that came with it and reloaded it with our own customized Linux based OS. Back then, the OS was called many random names. A few of which, what we can remember, was Meombao (pronounced Meh Ombao) OS or ButterflyOS. 
+កន្លែងដែលបានចាប់ផ្តើមវាគឺនៅការិយាល័យចាស់មួយរបស់ក្រុមហ៊ុន SmallWorld។
 
-After a few months of collection, two rooms of our office were full of old computers, both laptops and old CPUs. Not only that we were offered printers, monitors, phones, and all sorts of other electronics appliances. We were only interested in laptops and computers’ parts. So we sorted the ones good enough to be used and were donated to high school students and freshmen.
+នៅចុងឆ្នាំ ២០១២ ពួកយើងបានចាប់ដៃគូជាមួយ recycles.org ដើម្បីប្រមូលកុំព្យូទ័រចាស់ៗ តាមរយៈ Email group ដូចជា Yahoo Groupsនិង Google Groups។ ពួកយើងបានភ្ជាប់ទំនាក់ទំនងជាមួយអង្គការនិងបុគ្គលជាច្រើនដែលបានផ្លាស់ប្តូរទៅប្រើប្រាស់កំុព្យូរទ័រថ្មីៗ ហើយទុកកំុព្យូរទ័រចាស់ៗចោល។ ពួកយើងបានពិនិត្យមើលថា Hardware នៅអាចប្រើប្រាស់បានរឺទេ និងធ្វើការជួសជុលពួកវា។ ពួកយើងបានធ្វើការលុបចោលនូវប្រព័ន្ធប្រតិបតិ្តការចាស់ដែលបានដំឡើងនិងធ្វើការដំឡើងប្រព៏ន្ធប្រតិបត្តិការ Linux ដែលពួកយើងបានកែច្នៃ។ នៅពេលនោះ ប្រព័ន្ធប្រតិបតិ្តការយើងត្រូវបានហៅដោយឈ្មោះផ្សេងៗជាច្រើន។ ឈ្មោះមួយក្នុងនោះគឺ Meombao (មេអំបៅ) OS ឬ ButterflyOS ។
 
-One problem we had on top of the mountain of old computers was their incompatibility with Linux. At the time it took us three to four (full) days to get one laptop to work because the computers were initially built for Microsoft Windows.
+បន្ទាប់ពីធ្វើការប្រមូលបានពីរទៅបីខែ បន្ទប់ពីនៃការិយាល័យពួកយើងគឺ ពោរពេញទៅដោយកុំព្យូទ័រចាស់ៗ មានទាំងកុំព្យូទ័រយួរដៃនិង CPU ចាស់ៗ។ មិនត្រឹមតែប៉ុណ្ណោះ ពួកយើងត្រូវបានគេផ្តល់ជូនម៉ាស៊ីនបោះពុម្ព, អេក្រង់, ទូរស័ព្ទនិងគ្រឿងអេឡិចត្រូនិចផ្សេងៗទៀតគ្រប់ប្រភេទ ប៉ុន្តែពួក យើងចាប់អារម្មណ៍តែផ្នែកផ្សេងៗរបស់កុំព្យូទ័រប៉ុណ្ណោះ។ ដូច្នេះយើងបានបែងចែកពួកវាតាមប្រភេទ។ កុំព្យូទ័រដែលអាចប្រើបានត្រូវបានបរិច្ចាគទៅសិស្សវិទ្យាល័យនិងនិស្សិត។
 
-After a year or so, we decided to research how we could make computer hardware along with its very own OS. We didn’t have any academic credentials nor a million dollars.
+បញ្ហាមួយដែលយើងជូបនៅលើកុំព្យូរទ័រចាស់គឺភាពមិនស៊ីគ្នានឹងប្រព័ន្ធប្រតិបត្តិការ Linux។ នៅពេលនោះ ពួកយើងបានចំណាយពេល ៣ ទៅ ៤ ថ្ងៃពេញ ដើម្បីធ្វើឲ្យកុំព្យូទ័រយួរដៃមួយគ្រឿងអាចដំណើរការបាន ពីព្រោះកុំព្យូទ័រទាំងនោះត្រូវបានបង្កើតដំបូងឲ្យសមស្របជាមួយប្រព័ន្ធប្រតិបតិ្តការ Windows តែប៉ុណ្ណោះ ប៉ុន្តែត្រឹមតែពីរបីឆ្នាំក្រោយ ពួកយើងបានបង្កើតវាឡើងដោយជោគជ័យ។ 
 
-Only years later, we made it. Though we have come a long way and some things have changed, two things haven’t and those are:
+មួយឆ្នាំក្រោយមក យើងបានសម្រេចចិត្តស្រាវជ្រាវអំពីវិធីបង្កើតផ្នែកគ្រឿងបន្លាស់ (Hardware)កំុព្យូរទ័រជាមួយប្រព័ន្ធប្រតិបត្តិការផ្ទាល់ខ្លួន។ ពួកយើងមិនមែនជាអ្នកឯកទេសទេហើយធនធាននិងដើមទុនក៏មិនមានច្រើនដែរ។
 
-- **Our Mission** is to build tools, provide guidance and resources for the next generation of innovators.
-- **Our Vision** is to unlock people's unlimited capacity for self-directed learning by encouraging curiosity, flexibility, and creative imagination.
+ទោះបីជាកត្តាជាច្រើនបានផ្លាស់ប្តូរ ក្នុងដំណើរនេះក៏ដោយក្តីគឺមានរឿងពីរដែលមិនប្រែប្រួលសម្រាប់ពួកយើងគឺចំណុចពីរខាងក្រោម៖
+- **បេសកម្មរបស់យើង** គឺផលិតឧបករណ៍និងផ្តល់ជាការណែនាំពីបច្ចេកវិទ្យាជាធនធានសម្រាប់អ្នកច្នៃប្រឌិតជំនាន់ថ្មី។
+- **ទស្សនវិស័យរបស់យើង** គឺកាត់បន្ថយនូវឧបសគ្គដែលរារាំងដល់ស័្វយសិក្សា ដើម្បីបណ្តុះបណ្តាលឲ្យបុគ្គលគ្រប់រូបមានគំនិតច្នៃប្រឌិត ចេះដោះស្រាយបញ្ហាដោយមានប្រសិទ្ធិភាពនិងមានការស្រមើស្រមៃខ្ពស់។
 
-These two pillars are the Northstar that guides our team in everyday work. They are what keeps our motivation strong and encourages us to contribute to any area of development in any way we can. In the next pages, you will get to know our initiatives and projects.
+**បេសកម្ម និងទស្សនវិស័យនេះ** ជាគោលជំហដែលដឹកនាំក្រុមរបស់យើងក្នុងការងារប្រចាំថ្ងៃ និងលើកទឹកចិត្តពួកយើងឲ្យមានការចូលរួមចំណែកក្នុងការអភិវឌ្ឍ។ នៅទំព័របន្ទាប់អ្នកនឹងស្គាល់គម្រោងនិងសកម្មភាពសង្គមមួយចំនួនរបស់KOOMPI។
 
-## Our Initiatives
-As a contributor to the open-source community, KOOMPI values the limitless learning unlocked by open source technology and seeks to inspire others to become innovators. We do not identify as a social enterprise but we seek to be a company that actively gives back. We take pride in contributing to the growing educational and technological world. The following are some of our activities. 
+## ការផ្តួចផ្តើមរបស់យើង
+ក្នុងនាមជាសមាជិកមួយក្នុងសហគមន៍ប្រភពបើកចំហរ (open source) KOOMPI ផ្តល់តម្លៃដល់ការរៀនសូត្របែបបើកចំហរដែលគ្មានព្រំដែនកំណត់និងព្យាយាមជម្រុញអ្នកដទៃអោយក្លាយជាអ្នកច្នៃប្រឌិត។ យើងមិនកំណត់អត្តសញ្ញាណខ្លួនថាជាសហគ្រាសសង្គម (social enterprise) ទេប៉ុន្តែយើងចង់ឲ្យការងាររបស់ពួកយើងផ្តល់អត្ថប្រយោជន៍ដល់សង្គម។ 
 
-- **One-School-One-Lab (OSOL)**
-As technology is constantly moving forward, students of all ages need technology skills to be well-equipped before entering university and employment. We believe that functional computer labs are one of the steps toward this goal. OSOL seeks to support schools with the essential resources in implementing an efficient computer education for their students. 
+យើងមានមោទនភាពក្នុងការចូលរួមចំណែកក្នុងវិស័យអប់រំនិងបច្ចេកវិទ្យាដែលកំពុងរីកចម្រើន។ ខាងក្រោមនេះជាសកម្មភាពមួយចំនួនដែលបានផ្តួចផ្តើមដោយKOOMPI។
 
-- **One-Student-One-Notebook (OSON)**
-Inspired by the original One Laptop Per Child (OLPC) program, which began during the late 1990s, we hope to give every child accessibility to technological education, more specifically one computer per student. This project also inspired our second notebook model, the KOOMPI E11, an 11.6-inch notebook that caters to young students’ needs. 
+**a.សាលារៀនមួយបន្ទប់ពិសោធន៍មួយ (One-School-One-Lab ឬ OSOL)**
+ ដោយសារបច្ចេកវិទ្យាកំពុងជឿនលឿនទៅមុខជានិច្ច  និស្សិតគ្រប់វ័យត្រូវការបច្ចេកវិជ្ជាដើម្បីមានសមត្ថភាពគ្រប់គ្រាន់មុនពេលចូលសាកលវិទ្យាល័យនិងការងារសង្គម។ យើងជឿជាក់ថាបន្ទប់កុំព្យូទ័រ (computer lab) គឺជាជំហានមួយឆ្ពោះទៅរកគោលដៅនេះ។ គម្រោង OSOLមានគោលដៅផ្តល់ឲ្យសាលារៀននូវធនធានចាំបាច់ក្នុងការអនុវត្តកម្មវិធីអប់រំកុំព្យូទ័រប្រកបដោយប្រសិទ្ធភាពសម្រាប់សិស្ស។
+ 
+**b.សិស្សម្នាក់-កុំព្យូទ័រមួយ (OSON)**
 
-- **KOOMPI Academy (academy.koompi.com)** is a free-access digital platform where students and educators can find or host a variety of self-studying and self-empowerment resources. Lessons are sorted into 5 STEAM subjects: science, technology, engineering, art, and mathematics. 
+ស្រដៀងគ្នាទៅនឹងការផ្តួចផ្តើមរបស់គម្រោងកុំព្យូទ័រយួរដៃមួយកុមារមួយ (One Laptop Per Child ឬ OLPC) ដែលបានចាប់ផ្តើមនៅចុងទសវត្សឆ្នាំ ១៩៩០ ពួកយើងមានបំណងផ្តល់ជូនដល់កុមារគ្រប់រូបនូវលទ្ធភាពទទួលបានការអប់រំផ្នែកបច្ចេកវិទ្យាជាពិសេសកុំព្យូទ័រមួយគ្រឿងសម្រាប់សិស្សម្នាក់។ គម្រោងនេះក៏បានជម្រុញឲ្យពួកយើងផលិតកុំព្យូទ័រយួរដៃទី ២ របស់យើងគឺ KOOMPI E11 ដែលជាកុំព្យូទ័រយួរដៃទំហំ ១១,៦ អ៊ីញដែលបំពេញតម្រូវការរបស់សិស្សក្មេងៗ។
+ 
+**c.Sala KOOMPI (sala.koompi.com)** គឺជាវេទិកាឌីជីថលមួយដែលនិស្សិតនិងអ្នកអប់រំអាចចូលបានដោយឥតគិតថ្លៃ។ ពួកគេអាចស្វែងរកមេរៀន ដើម្បីយកមកសិក្សាឬបង្កើតនូវធនធានផ្សេងៗផងដែរ។មេរៀនត្រូវបានបែងចែកជា ៥ មុខវិជ្ជា (STEAM) គឺវិទ្យាសាស្ត្រ (Science) បច្ចេកវិទ្យា (Technology) វិស្វកម្ម (Engineering) សិល្បៈ(Art)និងគណិតវិទ្យា (Mathematics)។
+ 
+**d.អ្នកអប់រំ / អ្នកសម្របសម្រួល**
+យើងបានចាត់ចែងឲ្យមានអ្នកអប់រំ (KOOMPI Educator) សម្រាប់សាលាដៃគូដែលបើកដំណើរការបន្ទប់កុំព្យូទ័រ KOOMPI Linux Lab។ តួនាទីរបស់ពួកគេគឺមិនមែនដើម្បីត្រឹមតែបង្រៀនប៉ុណ្ណោះទេ ប៉ុន្តែគឺដើម្បីជួយណែនាំសិស្សឲ្យមានការស័្វយសិក្សានិងដើរតួជាអ្នករាយការណ៍នូវបញ្ហាផ្សេងៗដែលកើតមានទៅក្រុមការងារKOOMPIដើម្បីកែសម្រួល។
+សាលារៀនដែលជាដៃគូរបស់KOOMPIនឹងទទួលបានការជួយជ្រោមជ្រែងពី KOOMPIក្នុងការបង្កើតកម្មវិធីសិក្សា ICT ដើម្បីឆ្លើយតបនឹងតម្រូវការសិស្ស។
 
-- **Educators/Facilitators**
-We assign a minimum of one KOOMPI Educator for every partner school that runs KOOMPI Linux Lab. The role of the Educator is not to “teach” but to facilitate the students’ self-directed learning and communicate any issues to KOOMPI team. The schools are also supported by the KOOMPI to create their ICT curriculum to fit their students’ need.
+**e.KOOMPI Wi-Fi**
+KOOMPI Wi-Fi គឺជាផ្នែកមួយនៃយុទ្ធនាការ Internet-For-All និងជាហេដ្ឋារចនាសម្ព័ន្ធបណ្តាញអ៊ីនធឺណិតលឿន (4G)ដែលKOOMPIផ្តល់នៅតាមសាលារៀននីមួយៗ។
+និស្សិតនិងគ្រូគ្រាន់តែចំណាយប្រាក់តិចជាង ១ ដុល្លារប៉ុណ្ណោះក្នុងមួយខែសម្រាប់ការប្រើប្រាស់អ៊ិនធឺណិតលើឧបករណ៍មួយដោយគ្មានដែនកំណត់ក្នុងល្បឿនចន្លោះពី ៦០ មេហ្កាបៃទៅ ៣០០ មេហ្គាបៃអាស្រ័យលើចំនួនឧបករណ៍ដែលបានភ្ជាប់។ យើងមានបំណងអនុវត្តគម្រោងនេះតាមភូមិដាច់ស្រយាលដើម្បីឲ្យឪពុកម្តាយរបស់សិស្សអាចចូលរួមប្រើប្រាស់បាន។
 
-- **KOOMPI Wi-Fi**
-Part of our Internet-For-All campaign, KOOMPI Wi-Fi is a fast fibre or 4G network infrastructure provided by KOOMPI to schools. Students and teachers would only need to pay around or less than 1$ per month per device for unlimited data at between 60 Mbps - 300 Mbps depending on the number of devices connected. We also hope to extend this to remote villages, so their parents and everyone could access the internet as well.
+**f.ការហាត់ការនៅKOOMPI (Apprenticeship)**
+មន្ទីរពិសោធន៍ស្រាវជ្រាវKOOMPIបើកចំហរដល់មនុស្សគ្រប់រូបដែលចាប់អារម្មណ៍ចង់រៀនតាមរយៈបទពិសោធន៍ផ្ទាល់។ យើងលើកទឹកចិត្តសិស្សទាំងអស់ឲ្យជ្រើសរើសជំនាញឬគម្រោងដែលពួកគេចាប់អារម្មណ៍។ ក្នុងពេលកំពុងហាត់ការ ពួកគេអាចចូលរួមវិភាគទានដល់គម្រោងនានានៅKOOMPIនិងទទួលបានការណែនាំពីសមាជិកនិងបុគ្គលិករាមច្បង។
 
-- **KOOMPI Apprenticeship**
-KOOMPI Research Lab is open to all individuals who are interested in learning through hands-on experience. We encourage our apprentices to follow their subjects of interest and relevance so that their knowledge will be applicable. For the duration of the apprenticeship, they can contribute to projects at KOOMPI and receive guidance from senior members and staff. 
-
-
-
+ឥឡូវនេះយើងបានដឹងពីព័ត៌មានជាច្រើនអំពីKOOMPI។ នៅក្នុងទំព័របន្ទាប់ យើងនឹងពិភាក្សាអំពីប្រភេទនៃប្រព័ន្ធប្រតិបត្តិការរបស់កុំព្យូទ័រ។ តើអ្នកដឹងទេថាប្រព័ន្ធប្រតិបត្តិការមានច្រើនប្រភេទណាស់ហើយអ្នកប្រើប្រាស់កុំព្យូទ័រអាចធ្វើការជ្រើសរើសទៅតាមចំណង់ចំណូលចិត្តបាន។  
 
