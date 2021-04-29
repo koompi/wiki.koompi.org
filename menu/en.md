@@ -5,7 +5,7 @@
 - [Computer Hardware](/en/Introduction/Computer_Hardware.md)
 - [Computer Software](/en/Introduction/Computer_Software.md)
 - [Operating Systems]()
-- [Applications]()
+- [applications]()
 - [Internet]()
 - [Security]()  
 -->
@@ -38,15 +38,16 @@
 
 ### Applications
 
-- [Overview](/en/Applications/Overviews.md)
-- [Internet](/en/Applications/Internet.md)
-- [Multimedia]()
-- [Utilities]()
-- [Documents]()
-- [Security]()
-- [Science]()
-- [Others]()
-- [Extents]()
+- [Overview](/en/applications/overviews.md)
+- [Documents](/en/applications/documents.md)
+- [Extents](/en/applications/extents.md)
+- [Internet](/en/applications/internet.md)
+- [Multimedia](/en/applications/multimedia.md)
+- [Science](/en/applications/science.md)
+- [Security](/en/applications/security.md)
+- [Utilities](/en/applications/utilities.md)
+- [Others](/en/applications/others.md)
+
 
 <!-- ## Development
 
