@@ -1,14 +1,22 @@
-### Notice
+
 <p style="color:red;">Note: All the recommended applications are on the top of each section, and the others are following in order by alphabet. </p>
 
-###	Barcode generators and readers	
-barcode	iec160ww	qrencode	zbar	zint	cobang	glabels	qrab	qreator	qtqr	zbar	zint-qt								
+					
 
 ### Bibliographic 
-reference manager	bibus	docear	jabref	 kbibtex	mendeleydesktop	papis	pybliographer	referencer	zotero				
+- [Docear](/en/bibliographic/docear.md) -- An academic literature package for scanning, arranging, and developing academic literature. 
+- [KBibTex](/en/bibliographic/kbibtex.md) -- LaTex Bibliographic editor.
+- [Mendeley Desktop](/en/bibliographic/mendeleydesktop.md) -- An scholarly social network and a proprietary reference manager. 
+- [Zotero](/en/bibliographic/zotero.md) --	An easy-to-use platform for gathering, organizing, citing, and sharing analysis sources. 			
 
 ### Document converters	
-masterpdfeditor	antiword	catdoc docx2txt	mupdf-tools	pandoc	unoconv	unrtf														
+- [antiword]() --
+- [catdoc]() --
+- [docx2txt]() --
+- [mupdf-tools]() --
+- [pandoc]() --
+- [unoconv]() --
+- [unrtf]()	--												
 
 ### Languages
 dictd	sdcv	artha	gjitenkai-git	gnome-dictionary	goldendict	kiten	mate-utils	opendict	palaura-git	powerword-bin	qstardict	stardict	xfce4-dict	languagetool	diction	textidote-bin	enchant-pure	gspell	gtkspell	hspell	libvoikko	apertium	crow-translate	gtranslator	lokalize	mosesdecoder	omegat	poedit	pology	qt5-tools	translate-shell	translate-toolkit	virtaal																										
