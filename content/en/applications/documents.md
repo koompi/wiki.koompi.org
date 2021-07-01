@@ -9,20 +9,76 @@
 - [Mendeley Desktop](/en/bibliographic/mendeleydesktop.md) -- An scholarly social network and a proprietary reference manager. 
 - [Zotero](/en/bibliographic/zotero.md) --	An easy-to-use platform for gathering, organizing, citing, and sharing analysis sources. 			
 
-### Document converters	
-- [antiword]() --
-- [catdoc]() --
-- [docx2txt]() --
-- [mupdf-tools]() --
-- [pandoc]() --
-- [unoconv]() --
-- [unrtf]()	--												
+<!-- ### Document converters	
+- [Apvlv](/en/documentconverter/apvlv.md) -- Lightweight document viewer.
+											 -->
 
 ### Languages
-dictd	sdcv	artha	gjitenkai-git	gnome-dictionary	goldendict	kiten	mate-utils	opendict	palaura-git	powerword-bin	qstardict	stardict	xfce4-dict	languagetool	diction	textidote-bin	enchant-pure	gspell	gtkspell	hspell	libvoikko	apertium	crow-translate	gtranslator	lokalize	mosesdecoder	omegat	poedit	pology	qt5-tools	translate-shell	translate-toolkit	virtaal																										
+dictd	
+sdcv	
+artha	
+gjitenkai-git	
+gnome-dictionary	
+goldendict	
+kiten	
+mate-utils	
+opendict	
+palaura-git	
+powerword-bin	
+qstardict	
+stardict	
+xfce4-dict	
+languagetool	
+diction	
+textidote-bin	
+enchant-pure	
+gspell	
+gtkspell	
+hspell	
+libvoikko	
+apertium	
+crow-translate
+gtranslator	
+lokalize	
+mosesdecoder	
+omegat	
+poedit	
+pology	
+qt5-tools	
+translate-shell	
+translate-toolkit	
+virtaal																										
 															
 ### Office
-calligra	libreoffice-still or libreoffice-fresh	onlyoffice-bin	openoffice-bin	freeoffice	wps-office	yozo-office	openoffice-bin	ted	wordgrinder	bluegriffon	pageedit	seamonkey	sent	sozi	spice-up	gnumeric	pyspread	sc	sc-im	adminer	libgda	gsql	kexi	orbada	squirrel-sql	tora	glom	symphytum	treeline											
+calligra	
+libreoffice-still or libreoffice-fresh	
+onlyoffice-bin	
+openoffice-bin	
+freeoffice	
+wps-office
+yozo-office	
+ted	
+wordgrinder	
+bluegriffon	
+pageedit	
+seamonkey	
+sent	
+sozi	
+spice-up	
+gnumeric	
+pyspread	
+sc	
+sc-im	
+adminer	
+libgda	
+gsql	
+kexi	
+orbada	
+squirrel-sql	
+tora	
+glom	
+symphytum	
+treeline											
 ### OCR software	
 cuneiform	gocr	ocrad	ocrmypdf	ocropy	tesseract	gimagereader-qt	gscan2pdf	lios-git	ocrfeeder	paperwork	djpdf	yagf	
 
@@ -32,7 +88,24 @@ python-sphinx	txt2tags	asciidoc	asciidoctor	discount	lowdown	marked	python-commo
 geeknote-git	hnb	emacs-org-mode	tnote	vim-vimwiki	basket	boostnote	buho	cherrytree	encryptic	feathernotes	fromscratch-bin	gnome-notes	gnote	joplin	keepnote	kjots	mikidown	mynotex	nextcloud-app-notes	nixnote2	notesnotes-tree	notes-up	notorious-git	nvpy	outwiker	qownnotes	simplenote-electron-bin	standardnotes-desktop	tagspaces-bin	tiddlywiki	tomboy	tuxcards	vnote	wikipad	wiznote	zim	znotes	micropad	cournal	write-stylus	xournal	xournalpp	almanah	hazama	lifeograph	rednotebook	freemind	freeplane	labyrinth	minder	mindmaster-en	emantik	treesheets-git	vym	vue	xmind	globonote	knotes	mynotes	notejot	xfce4-notes-plugin	qtpad-git	xnots-git	xpad			
 
 ### Reader and viewer	
-nfoview	masterpdfeditor	bookworm	calibre	coolreader	fbreader	foliate	gnome-books	lector	sigil	buoh	komikku	mcomix	peruse-git	qcomicbook	yacreader	archmage	kchmviewer	xchm																	
+nfoview	
+masterpdfeditor	
+bookworm	
+calibre	
+coolreader	
+fbreader	
+foliate	
+gnome-books	
+lector	
+sigil	
+buoh	
+komikku	
+mcomix	
+peruse-git	
+qcomicbook	
+yacreader	
+archmage	
+kchmviewer	xchm																	
 	
 ### Scanning
 - [Scantailor-advanced]()																																				

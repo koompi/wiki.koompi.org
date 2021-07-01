@@ -64,6 +64,9 @@
 
 - [KOOMPI OS PLAYBOOK](/en/Documentation/KOOMPI_OS_PLAYBOOK.md)
 
+### Tutorial
+- [Video Instruction](/en/Tutorial)
+
 ### FAQs
 
 - [General](/en/FAQs/General.md)
