@@ -14,71 +14,72 @@
 											 -->
 
 ### Languages
-dictd	
-sdcv	
-artha	
-gjitenkai-git	
-gnome-dictionary	
-goldendict	
-kiten	
-mate-utils	
-opendict	
-palaura-git	
-powerword-bin	
-qstardict	
-stardict	
-xfce4-dict	
-languagetool	
-diction	
-textidote-bin	
-enchant-pure	
-gspell	
-gtkspell	
-hspell	
-libvoikko	
-apertium	
-crow-translate
-gtranslator	
-lokalize	
-mosesdecoder	
-omegat	
-poedit	
-pology	
-qt5-tools	
-translate-shell	
-translate-toolkit	
-virtaal																										
+- [dictd]()	
+- [sdcv]()	
+- [artha]()	
+- [gjitenkai-git]()	
+- [gnome-dictionary]()	
+- [goldendict]()	
+- [kiten]()	
+- [mate-utils]()	
+- [opendict]()	
+- [palaura-git]()	
+- [powerword-bin]()	
+- [qstardict]()	
+- [stardict]()	
+- [xfce4-dict]()	
+- [languagetool]()	
+- [diction]()	
+- [textidote-bin]()	
+- [enchant-pure]()	
+- [gspell]()	
+- [gtkspell]()	
+- [hspell]()	
+- [libvoikko]()	
+- [apertium]()	
+- [crow-translate]()
+- [gtranslator]()	
+- [lokalize]()	
+- [mosesdecoder]()	
+- [omegat]()	
+- [poedit]()	
+- [pology]()	
+- [qt5-tools]()	
+- [translate-shell]()	
+- [translate-toolkit]()	
+- [virtaal]()																										
 															
 ### Office
-calligra	
-libreoffice-still or libreoffice-fresh	
-onlyoffice-bin	
-openoffice-bin	
-freeoffice	
-wps-office
-yozo-office	
-ted	
-wordgrinder	
-bluegriffon	
-pageedit	
-seamonkey	
-sent	
-sozi	
-spice-up	
-gnumeric	
-pyspread	
-sc	
-sc-im	
-adminer	
-libgda	
-gsql	
-kexi	
-orbada	
-squirrel-sql	
-tora	
-glom	
-symphytum	
-treeline											
+- [calligra]()	
+- [libreoffice-still or libreoffice-fresh]()	
+- [onlyoffice-bin]()	
+- [openoffice-bin]()	
+- [freeoffice]()	
+- [wps-office]()
+- [yozo-office]()	
+- [ted]()	
+- [wordgrinder]()	
+- [bluegriffon]()	
+- [pageedit]()	
+- [seamonkey]()	
+- [sent]()	
+- [sozi]()	
+- [spice-up]()	
+- [gnumeric]()	
+- [pyspread]()	
+- [sc]()	
+- [sc-im]()	
+- [adminer]()	
+- [libgda]()	
+- [gsql]()	
+- [kexi]()	
+- [orbada]()	
+- [squirrel-sql]()	
+- [tora]()	
+- [glom]()	
+- [symphytum]()	
+- [treeline]()	
+
 ### OCR software	
 cuneiform	gocr	ocrad	ocrmypdf	ocropy	tesseract	gimagereader-qt	gscan2pdf	lios-git	ocrfeeder	paperwork	djpdf	yagf	
 
