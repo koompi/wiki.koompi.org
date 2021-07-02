@@ -1,7 +1,7 @@
 # Video Instruction
 This tutorial has been create by our team (KOOMPI) to help answering the "How to questions" for all users who are using KOOMPI OS and open source operating system. 
 
-The video cover and focus on problems that users mostly like to face, and seek for solutions. 
+The videos cover and focus on problems that users most likely to face and seek for solutions. 
 
 1. [What is Discover?](https://youtu.be/6Urcw1p34iU)
 1. [How to set up download video from youtube?](https://youtu.be/727l08xivlU)
