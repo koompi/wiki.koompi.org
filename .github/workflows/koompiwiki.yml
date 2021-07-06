@@ -3,7 +3,7 @@ on:
   push:
     branches: [ main ]   
 jobs:
-  Deploy KOOMPI Wiki:
+  KOOMPI_Wiki:
     runs-on: ubuntu-latest
     environment: 
       name: Production
