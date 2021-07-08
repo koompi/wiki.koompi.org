@@ -70,7 +70,7 @@
 ### FAQs
 
 - [General](/en/FAQs/General.md)
-- [Technical](/en/FAQs/Technical.md)
+<!-- - [Technical](/en/FAQs/Technical.md) -->
 
 
 ### New Release
