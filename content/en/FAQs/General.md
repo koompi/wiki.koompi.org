@@ -11,12 +11,6 @@ KOOMPI OS is the free open-source software, it is free to use as much as everyon
 
 ---
 
-### Which application used for designing on KOOMPI OS?
-
-### Which application used for word processing on KOOMPI OS?
-
-### Which application used for installing application on KOOMPI OS?
-
 ### How to switch languages?
 There are two ways for changing your languages usage.
 
@@ -237,4 +231,12 @@ This happens when your kernel is corrupted. It is caused by
 The solution for this matter,x   please bring it to [KOOMPI office](http://bit.do/koompi-boran) for fixing!
 
 ---
+
+### Which application used for designing on KOOMPI OS?
+
+### Which application used for word processing on KOOMPI OS?
+
+### Which application used for file managing on KOOMPI OS?
+
+### Which application used for installing application on KOOMPI OS?
 
