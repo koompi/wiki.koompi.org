@@ -1,6 +1,6 @@
 ### KBibTex
 
-![Image](/public/Images/kbibtex.png)
+![Image disclaimer](/public/Images/kbibtex.png)
 
 [KBibTex](https://apps.kde.org/kbibtex) is a formatted reference control platform that is commonly used in combination with TeX/LaTeX. KBibTeX provides features such as scanning and uploading new sources from Google Scholar or BibSonomy in addition to standard editing capability. 
 

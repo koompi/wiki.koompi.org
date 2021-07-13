@@ -50,18 +50,20 @@
 - [virtaal]()																										
 															
 ### Office
-- [calligra]()	
-- [libreoffice-still or libreoffice-fresh]()	
-- [onlyoffice-bin]()	
-- [openoffice-bin]()	
-- [freeoffice]()	
-- [wps-office]()
-- [yozo-office]()	
-- [ted]()	
-- [wordgrinder]()	
-- [bluegriffon]()	
-- [pageedit]()	
-- [seamonkey]()	
+- [LibreOffice](/en/office/libreoffice.md) -- An open source office suite standardized ODF document format. 
+- [OpenOffice](/en/office/openoffice.md) -- An apache office suite.	
+---
+- [Calligra](/en/office/calligra.md) -- KDE office and grahic art suite. 	
+- [Onlyoffice](/en/office/onlyoffice.md) -- A combination of text, spreedsheet, and presentation application.	
+- [Freeoffice](/en/office/freeoffice.md) -- 	
+- [WPS Office](/en/office/wsp-office.md) -- 
+- [Ted](/en/office/ted.md) -- 	
+- [WordGrinder](/en/office/wordgrinder.md) --	
+- [BlueGriffon](/en/office/bluegriffon.md) --	
+- [PageEdit](/en/office/pageedit.md) --	
+- [Seamonkey](/en/office/seamonkey.md) -- 
+- [GLabels](/en/office/glabels.md)  --
+- [Scribus](/en/office/scribus.md) --
 - [sent]()	
 - [sozi]()	
 - [spice-up]()	

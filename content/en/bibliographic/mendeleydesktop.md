@@ -1,6 +1,6 @@
 ### Mendeley Desktop
 
-![Image](/public/Images/mendeleydesktop.png)
+![Image disclaimer](/public/Images/mendeleydesktop.png)
 
 [Mendeley Desktop](https://www.mendeley.com) is an software for academic research, which is known as reference manager that is used to manage and share research papers and generate bibliographic for scholary article.
 

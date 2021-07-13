@@ -1,6 +1,6 @@
 ### Docear
 
-![Image](/public/Images/docear.png)
+![Image disclaimer](/public/Images/docear.png)
 
 [Docear](https://docear.org) is a unique solution to academic literature management. It bases on the mind mapping program Freeplane and the reference manager, an academic literature package for scanning, arranging, and developing academic literature. 
 

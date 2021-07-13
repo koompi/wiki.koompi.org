@@ -1,6 +1,6 @@
 ### Zotero
 
-![Image](/public/Images/zotero.png)
+![Image disclaimer](/public/Images/zotero.png)
 
 [Zotero](https://www.zotero.org) is a free and open-source reference management software to manage bibliographic data and related research materials (such as PDF files).
 
