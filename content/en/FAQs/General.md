@@ -11,8 +11,6 @@ KOOMPI OS is the free open-source software, it is free to use as much as everyon
 
 ---
 
-
-
 ### How to switch languages?
 There are two ways for changing your languages usage.
 
@@ -60,7 +58,6 @@ refresher all
 You can check your specification of your Pc by opening the **System Settings** and then scroll down to the bottom of the setting. After that you will see the sector named **System Information**, Click on it you will see all the details there.
 
 ---
-
 
 ### Can KOOMPI OS run Microsoft Offices?
 
@@ -234,4 +231,12 @@ This happens when your kernel is corrupted. It is caused by
 The solution for this matter,x   please bring it to [KOOMPI office](http://bit.do/koompi-boran) for fixing!
 
 ---
+
+### Which application used for designing on KOOMPI OS?
+
+### Which application used for word processing on KOOMPI OS?
+
+### Which application used for file managing on KOOMPI OS?
+
+### Which application used for installing application on KOOMPI OS?
 
