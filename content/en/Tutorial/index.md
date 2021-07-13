@@ -26,5 +26,6 @@ The video cover and focus on problems that users mostly like to face, and seek f
 1. [How to reset the wifi?](https://youtu.be/ey9yHOULLS8)
 1. [How to change keyboard languages?](https://t.me/koompi/692)
 1. [How to set up auto connect wifi on KOOMPI?](https://youtu.be/fzWuxTxaQSI?list=PLySF7VQ3YYYDYJcE1r7eI0AnrQ-DZoRoU)
-1. [How to set up line on KOOMPI?](https://youtu.be/JxRp6Qdtiaw
+1. [How to set up line on KOOMPI?](https://youtu.be/JxRp6Qdtiaw)
 1. [How to install Zoom?](https://youtu.be/lpn6F-W1KqQ)
+1. [How to set up desktop]()
