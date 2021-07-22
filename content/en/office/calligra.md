@@ -9,3 +9,9 @@ You can install it using konsole or other termical emulator, and type this comma
 ```
 pi -S calligra
 ```
+
+### How to uninstall it?
+You can uninstall it using konsole or other termical emulator, and type this command below in.
+```
+pi -R calligra
+```

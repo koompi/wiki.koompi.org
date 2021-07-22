@@ -52,22 +52,21 @@
 ### Office
 - [LibreOffice](/en/office/libreoffice.md) -- An open source office suite standardized ODF document format. 
 - [OpenOffice](/en/office/openoffice.md) -- An apache office suite.	
+- [Scribus](/en/office/scribus.md) -- An open source publishing software.
 ---
 - [Calligra](/en/office/calligra.md) -- KDE office and grahic art suite. 	
-- [Onlyoffice](/en/office/onlyoffice.md) -- A combination of text, spreedsheet, and presentation application.	
-- [Freeoffice](/en/office/freeoffice.md) -- 	
-- [WPS Office](/en/office/wsp-office.md) -- 
-- [Ted](/en/office/ted.md) -- 	
-- [WordGrinder](/en/office/wordgrinder.md) --	
-- [BlueGriffon](/en/office/bluegriffon.md) --	
-- [PageEdit](/en/office/pageedit.md) --	
-- [Seamonkey](/en/office/seamonkey.md) -- 
-- [GLabels](/en/office/glabels.md)  --
-- [Scribus](/en/office/scribus.md) --
-- [sent]()	
-- [sozi]()	
-- [spice-up]()	
-- [gnumeric]()	
+- [OnlyOffice](/en/office/onlyoffice.md) -- A combination of text, spreedsheet, and presentation application.	
+- [FreeOffice](/en/office/freeoffice.md) -- Alternative reliable software for word processing, spreadsheet, presentation, graphic,  and more.	
+- [WPS Office](/en/office/wspoffice.md) -- Free and complete office suite.
+- [Ted](/en/office/ted.md) -- A text processor GTK-based.
+- [WordGrinder](/en/office/wordgrinder.md) --  A console word processing software.
+- [BlueGriffon](/en/office/bluegriffon.md) -- WYSIWYG content editor for the World Wide Web.
+- [PageEdit](/en/office/pageedit.md) --	ePub visual XXHTML editor.
+- [Seamonkey](/en/office/seamonkey.md) -- A powerful HTML editor with Seamonkey suite.
+- [GLabels](/en/office/glabels.md)  -- an application for creating label, business card, and  media cover.
+- [Sozi](/en/office/sozi.md) --	A presentation editor and player based on Electron.
+- [Spice-up](/en/office/spiceup.md) -- A creatinng application for presentation.
+- [Gnumeric](/en/office/gnumeric.md) -- A spreadsheet program for GNOME Desktop.
 - [pyspread]()	
 - [sc]()	
 - [sc-im]()	
@@ -111,7 +110,7 @@ archmage
 kchmviewer	xchm																	
 	
 ### Scanning
-- [Scantailor-advanced]()																																				
+- [ScanTailor  Advanced]() -- an interactive post-processing tool for scanned pages.																																			
 ### Special
 Writing Environment	focuswriter	pyroom	quilter	textroom	manuskript	novprog	ostorybook	scenarist	magicefountain	trelby-git	
 
