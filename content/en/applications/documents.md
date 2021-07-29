@@ -67,19 +67,13 @@
 - [Sozi](/en/office/sozi.md) --	A presentation editor and player based on Electron.
 - [Spice-up](/en/office/spiceup.md) -- A creatinng application for presentation.
 - [Gnumeric](/en/office/gnumeric.md) -- A spreadsheet program for GNOME Desktop.
-- [pyspread]()	
-- [sc]()	
-- [sc-im]()	
-- [adminer]()	
-- [libgda]()	
-- [gsql]()	
-- [kexi]()	
-- [orbada]()	
-- [squirrel-sql]()	
-- [tora]()	
-- [glom]()	
-- [symphytum]()	
-- [treeline]()	
+- [Pyspread](/en/office/pyspread.md) -- A python spreadsheet application.				
+- [Kexi](/en/office/kexi.md) -- Visual database application by KDE.
+- [Orbada](/en/office/orbada.md) --	A tool for database developing.
+- [Squirrel SQL](/en/office/squirrel-sql.md) -- Java program language tool for viewing JDBC.
+- [Glom](/en/office/glom.md) -- Easy-to-use database designer and user interface.
+- [Symphytum](/en/office/symphytum.md) -- Private databased program.	
+- [Treeline](/en/office/treeline.md) -- A information storing tool. 
 
 ### OCR software	
 cuneiform	gocr	ocrad	ocrmypdf	ocropy	tesseract	gimagereader-qt	gscan2pdf	lios-git	ocrfeeder	paperwork	djpdf	yagf	

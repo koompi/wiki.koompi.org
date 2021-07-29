@@ -2,7 +2,7 @@
 
 General Question section, the place where all users can find all the answers related to simple questions, or commonly asked by other users. Some of the Faqs here are from the submission of the users to our email os@koompi.com All these questions have been noted down by our team. 
 
-This section will be updated every time there are new questions which are relevant to this section.
+Any relevant to this section will be updated frequently!
 
 ---
 
