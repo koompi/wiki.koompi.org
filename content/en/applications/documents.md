@@ -14,15 +14,10 @@
 											 -->
 
 ### Languages
-- [dictd]()	
-- [sdcv]()	
-- [artha]()	
-- [gjitenkai-git]()	
-- [gnome-dictionary]()	
-- [goldendict]()	
-- [kiten]()	
-- [mate-utils]()	
-- [opendict]()	
+- [Artha](/en/languages/artha.md) -- English thesaurus based on WordNet.		
+- [GoldenDict](/en/languages/goldendict.md) -- Rich-features dictionary.
+- [Kiten](/en/languages/kiten.md) -- Japanese reference tool.	
+- [OpenDict](/en/languages/opendict.md) -- Dictionary that includes Slowo and Mova format. 	 
 - [palaura-git]()	
 - [powerword-bin]()	
 - [qstardict]()	
@@ -40,43 +35,54 @@
 - [crow-translate]()
 - [gtranslator]()	
 - [lokalize]()	
-- [mosesdecoder]()	
-- [omegat]()	
-- [poedit]()	
-- [pology]()	
-- [qt5-tools]()	
-- [translate-shell]()	
-- [translate-toolkit]()	
-- [virtaal]()																										
+- [Mosesdecoder]()	
+- [Omegat]()	
+- [Poedit]()	
+- [Pology]()	
+- [Qt5-tools]()	
+- [Translate-shell]()	
+- [Translate-toolkit]()	
+- [Virtaal]()																										
 															
 ### Office
 - [LibreOffice](/en/office/libreoffice.md) -- An open source office suite standardized ODF document format. 
 - [OpenOffice](/en/office/openoffice.md) -- An apache office suite.	
 - [Scribus](/en/office/scribus.md) -- An open source publishing software.
 ---
-- [Calligra](/en/office/calligra.md) -- KDE office and grahic art suite. 	
-- [OnlyOffice](/en/office/onlyoffice.md) -- A combination of text, spreedsheet, and presentation application.	
+- [BlueGriffon](/en/office/bluegriffon.md) -- WYSIWYG content editor for the World Wide Web.
+- [Calligra](/en/office/calligra.md) -- KDE office and grahic art suite. 
 - [FreeOffice](/en/office/freeoffice.md) -- Alternative reliable software for word processing, spreadsheet, presentation, graphic,  and more.	
+- [GLabels](/en/office/glabels.md)  -- an application for creating label, business card, and  media cover.
+- [Glom](/en/office/glom.md) -- Easy-to-use database designer and user interface.	
+- [Gnumeric](/en/office/gnumeric.md) -- A spreadsheet program for GNOME Desktop.
+- [Kexi](/en/office/kexi.md) -- Visual database application by KDE.
+- [OnlyOffice](/en/office/onlyoffice.md) -- A combination of text, spreedsheet, and presentation application.	
+- [Orbada](/en/office/orbada.md) --	A tool for database developing.
 - [WPS Office](/en/office/wspoffice.md) -- Free and complete office suite.
 - [Ted](/en/office/ted.md) -- A text processor GTK-based.
-- [WordGrinder](/en/office/wordgrinder.md) --  A console word processing software.
-- [BlueGriffon](/en/office/bluegriffon.md) -- WYSIWYG content editor for the World Wide Web.
 - [PageEdit](/en/office/pageedit.md) --	ePub visual XXHTML editor.
+- [Pyspread](/en/office/pyspread.md) -- A python spreadsheet application.	
 - [Seamonkey](/en/office/seamonkey.md) -- A powerful HTML editor with Seamonkey suite.
-- [GLabels](/en/office/glabels.md)  -- an application for creating label, business card, and  media cover.
 - [Sozi](/en/office/sozi.md) --	A presentation editor and player based on Electron.
 - [Spice-up](/en/office/spiceup.md) -- A creatinng application for presentation.
-- [Gnumeric](/en/office/gnumeric.md) -- A spreadsheet program for GNOME Desktop.
-- [Pyspread](/en/office/pyspread.md) -- A python spreadsheet application.				
-- [Kexi](/en/office/kexi.md) -- Visual database application by KDE.
-- [Orbada](/en/office/orbada.md) --	A tool for database developing.
 - [Squirrel SQL](/en/office/squirrel-sql.md) -- Java program language tool for viewing JDBC.
-- [Glom](/en/office/glom.md) -- Easy-to-use database designer and user interface.
 - [Symphytum](/en/office/symphytum.md) -- Private databased program.	
 - [Treeline](/en/office/treeline.md) -- A information storing tool. 
-
+- [WordGrinder](/en/office/wordgrinder.md) --  A console word processing software.
 ### OCR software	
-cuneiform	gocr	ocrad	ocrmypdf	ocropy	tesseract	gimagereader-qt	gscan2pdf	lios-git	ocrfeeder	paperwork	djpdf	yagf	
+- [cuneiform]()	
+- [gocr]()	
+- [ocrad]()	
+- [ocrmypdf]()	
+- [ocropy]()	
+- [tesseract]()	
+- [gimagereader-qt]()	
+- [gscan2pdf]()	
+- [lios-git]()	
+- [ocrfeeder]()	
+- [paperwork]()	
+- [djpdf]()	
+- [yagf]()	
 
 ### Mark languages
 python-sphinx	txt2tags	asciidoc	asciidoctor	discount	lowdown	marked	python-commonmark	m2r	python-mistune	python-markdown	ruby-kramdown	ruby-maruku	ruby-mdless	abricotine	apostrophe	cutemarked	formiko	ghostwriter	marker	markmywords	marktext	moeditor-bin	remarkable	retext	typora	groff	lout	sile	texlive-core	texinfo	auctex	gedit-latex	gnome-latex	gummi	kile	qtikz	lyx	setzer-git	texmacs	texmaker	texstudio	texworks	tikzit	vim-latexsuite	equalx	klatexformula	libreoffice-extension-texmaths	qxmledit	xmlcopyeditor	xmltreeedit-bin																																															
